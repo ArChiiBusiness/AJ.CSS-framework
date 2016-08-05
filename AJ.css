@@ -1,0 +1,7329 @@
+/* AJ.CSS framework */
+/* Author: Arturs Jaunosans */
+/* www.jaunosans.com */
+
+
+.bg-red {
+  background-color: #ff0000;
+}
+.bg-pink {
+  background-color: #ff1493;
+}
+.bg-orange {
+  background-color: #ffa500;
+}
+.bg-yellow {
+  background-color: #ffff00;
+}
+.bg-violet {
+  background-color: #ee82ee;
+}
+.bg-purple {
+  background-color: #800080;
+}
+.bg-green {
+  background-color: #008000;
+}
+.bg-lime {
+  background-color: #00ff00;
+}
+.bg-teal {
+  background-color: #008080;
+}
+.bg-cyan {
+  background-color: #00ffff;
+}
+.bg-blue {
+  background-color: #0000ff;
+}
+.bg-navy {
+  background-color: #000080;
+}
+.bg-tan {
+  background-color: #d2b48c;
+}
+.bg-peru {
+  background-color: #cd853f;
+}
+.bg-brown {
+  background-color: #8b4513;
+}
+.bg-cornsilk {
+  background-color: #fff8dc;
+}
+.bg-white {
+  background-color: #ffffff;
+}
+.bg-snow {
+  background-color: #fffafa;
+}
+.bg-azure {
+  background-color: #f0ffff;
+}
+.bg-beige {
+  background-color: #f5f5dc;
+}
+.bg-linen {
+  background-color: #faf0e6;
+}
+.bg-lightgrey {
+  background-color: #d3d3d3;
+}
+.bg-silver {
+  background-color: #c0c0c0;
+}
+.bg-grey {
+  background-color: #808080;
+}
+.bg-black {
+  background-color: #000000;
+}
+.bg-indianred {
+  background-color: #cd5c5c;
+}
+.bg-lightcoral {
+  background-color: #f08080;
+}
+.bg-salmon {
+  background-color: #fa8072;
+}
+.bg-darksalmon {
+  background-color: #e9967a;
+}
+.bg-lightsalmon {
+  background-color: #ffa07a;
+}
+.bg-crimson {
+  background-color: #dc143c;
+}
+.bg-firebrick {
+  background-color: #b22222;
+}
+.bg-darkred {
+  background-color: #8b0000;
+}
+.bg-lightpink {
+  background-color: #ffb6c1;
+}
+.bg-hotpink {
+  background-color: #ff69b4;
+}
+.bg-deeppink {
+  background-color: #ff1493;
+}
+.bg-mediumvioletred {
+  background-color: #c71585;
+}
+.bg-palevioletred {
+  background-color: #db7093;
+}
+.bg-lightsalmon {
+  background-color: #ffa07a;
+}
+.bg-coral {
+  background-color: #ff7f50;
+}
+.bg-tomato {
+  background-color: #ff6347;
+}
+.bg-orangered {
+  background-color: #ff4500;
+}
+.bg-darkorange {
+  background-color: #ff8c00;
+}
+.bg-gold {
+  background-color: #ffd700;
+}
+.bg-lightyellow {
+  background-color: #ffffe0;
+}
+.bg-lemonchiffon {
+  background-color: #fffacd;
+}
+.bg-lightgoldenrodyellow {
+  background-color: #fafad2;
+}
+.bg-papayawhip {
+  background-color: #ffefd5;
+}
+.bg-moccasin {
+  background-color: #ffe4b5;
+}
+.bg-peachpuff {
+  background-color: #ffdab9;
+}
+.bg-palegoldenrod {
+  background-color: #eee8aa;
+}
+.bg-khaki {
+  background-color: #f0e68c;
+}
+.bg-darkkhaki {
+  background-color: #bdb76b;
+}
+.bg-lavender {
+  background-color: #e6e6fa;
+}
+.bg-thistle {
+  background-color: #d8bfd8;
+}
+.bg-plum {
+  background-color: #dda0dd;
+}
+.bg-orchid {
+  background-color: #da70d6;
+}
+.bg-fuchsia {
+  background-color: #ff00ff;
+}
+.bg-magenta {
+  background-color: #ff00ff;
+}
+.bg-mediumorchid {
+  background-color: #ba55d3;
+}
+.bg-mediumpurple {
+  background-color: #9370db;
+}
+.bg-amethyst {
+  background-color: #9966cc;
+}
+.bg-blueviolet {
+  background-color: #8a2be2;
+}
+.bg-darkviolet {
+  background-color: #9400d3;
+}
+.bg-darkorchid {
+  background-color: #9932cc;
+}
+.bg-darkmagenta {
+  background-color: #8b008b;
+}
+.bg-indigo {
+  background-color: #4b0082;
+}
+.bg-slateblue {
+  background-color: #6a5acd;
+}
+.bg-darkslateblue {
+  background-color: #483d8b;
+}
+.bg-mediumslateblue {
+  background-color: #7b68ee;
+}
+.bg-greenyellow {
+  background-color: #adff2f;
+}
+.bg-chartreuse {
+  background-color: #7fff00;
+}
+.bg-lawngreen {
+  background-color: #7cfc00;
+}
+.bg-limegreen {
+  background-color: #32cd32;
+}
+.bg-palegreen {
+  background-color: #98fb98;
+}
+.bg-lightgreen {
+  background-color: #90ee90;
+}
+.bg-mediumspringgreen {
+  background-color: #00fa9a;
+}
+.bg-springgreen {
+  background-color: #00ff7f;
+}
+.bg-mediumseagreen {
+  background-color: #3cb371;
+}
+.bg-seagreen {
+  background-color: #2e8b57;
+}
+.bg-forestgreen {
+  background-color: #228b22;
+}
+.bg-darkgreen {
+  background-color: #006400;
+}
+.bg-yellowgreen {
+  background-color: #9acd32;
+}
+.bg-olivedrab {
+  background-color: #6b8e23;
+}
+.bg-olive {
+  background-color: #808000;
+}
+.bg-darkolivegreen {
+  background-color: #556b2f;
+}
+.bg-mediumaquamarine {
+  background-color: #66cdaa;
+}
+.bg-darkseagreen {
+  background-color: #8fbc8f;
+}
+.bg-lightseagreen {
+  background-color: #20b2aa;
+}
+.bg-darkcyan {
+  background-color: #008b8b;
+}
+.bg-lightcyan {
+  background-color: #e0ffff;
+}
+.bg-paleturquoise {
+  background-color: #afeeee;
+}
+.bg-aquamarine {
+  background-color: #7fffd4;
+}
+.bg-turquoise {
+  background-color: #40e0d0;
+}
+.bg-mediumturquoise {
+  background-color: #48d1cc;
+}
+.bg-darkturquoise {
+  background-color: #00ced1;
+}
+.bg-cadetblue {
+  background-color: #5f9ea0;
+}
+.bg-steelblue {
+  background-color: #4682b4;
+}
+.bg-lightsteelblue {
+  background-color: #b0c4de;
+}
+.bg-powderblue {
+  background-color: #b0e0e6;
+}
+.bg-lightblue {
+  background-color: #add8e6;
+}
+.bg-skyblue {
+  background-color: #87ceeb;
+}
+.bg-lightskyblue {
+  background-color: #87cefa;
+}
+.bg-deepskyblue {
+  background-color: #00bfff;
+}
+.bg-dodgerblue {
+  background-color: #1e90ff;
+}
+.bg-cornflowerblue {
+  background-color: #6495ed;
+}
+.bg-mediumslateblue {
+  background-color: #7b68ee;
+}
+.bg-royalblue {
+  background-color: #f41690;
+}
+.bg-mediumblue {
+  background-color: #0000cd;
+}
+.bg-darkblue {
+  background-color: #00008b;
+}
+.bg-midnightblue {
+  background-color: #191970;
+}
+.bg-blanchedalmond {
+  background-color: #ffebcd;
+}
+.bg-bisque {
+  background-color: #ffe4c4;
+}
+.bg-navajowhite {
+  background-color: #ffdead;
+}
+.bg-wheat {
+  background-color: #f5deb3;
+}
+.bg-burlywood {
+  background-color: #deb887;
+}
+.bg-rosybrown {
+  background-color: #bc8f8f;
+}
+.bg-sandybrown {
+  background-color: #f4a460;
+}
+.bg-goldenrod {
+  background-color: #daa520;
+}
+.bg-darkgoldenrod {
+  background-color: #b8860b;
+}
+.bg-chocolate {
+  background-color: #d2691e;
+}
+.bg-sienna {
+  background-color: #a0522d;
+}
+.bg-maroon {
+  background-color: #800000;
+}
+.bg-honeydew {
+  background-color: #f0fff0;
+}
+.bg-mintcream {
+  background-color: #f5fffa;
+}
+.bg-aliceblue {
+  background-color: #f0f8ff;
+}
+.bg-ghostwhite {
+  background-color: #f8f8ff;
+}
+.bg-whitesmoke {
+  background-color: #f5f5f5;
+}
+.bg-seashell {
+  background-color: #fff5ee;
+}
+.bg-oldlace {
+  background-color: #fdf5e6;
+}
+.bg-floralwhite {
+  background-color: #fffaf0;
+}
+.bg-ivory {
+  background-color: #fffff0;
+}
+.bg-antiquewhite {
+  background-color: #faebd7;
+}
+.bg-lavenderblush {
+  background-color: #fff0f5;
+}
+.bg-mistyrose {
+  background-color: #ffe4e1;
+}
+.bg-gainsboro {
+  background-color: #dcdcdc;
+}
+.bg-darkgray {
+  background-color: #a9a9a9;
+}
+.bg-dimgray {
+  background-color: #696969;
+}
+.bg-lightslategray {
+  background-color: #778899;
+}
+.bg-slategray {
+  background-color: #708090;
+}
+.bg-darkslategray {
+  background-color: #2f4f4f;
+}
+.t-red {
+  color: #ff0000;
+}
+.t-pink {
+  color: #ff1493;
+}
+.t-orange {
+  color: #ffa500;
+}
+.t-yellow {
+  color: #ffff00;
+}
+.t-violet {
+  color: #ee82ee;
+}
+.t-purple {
+  color: #800080;
+}
+.t-green {
+  color: #008000;
+}
+.t-lime {
+  color: #00ff00;
+}
+.t-teal {
+  color: #008080;
+}
+.t-cyan {
+  color: #00ffff;
+}
+.t-blue {
+  color: #0000ff;
+}
+.t-navy {
+  color: #000080;
+}
+.t-tan {
+  color: #d2b48c;
+}
+.t-peru {
+  color: #cd853f;
+}
+.t-brown {
+  color: #8b4513;
+}
+.t-cornsilk {
+  color: #fff8dc;
+}
+.t-white {
+  color: #ffffff;
+}
+.t-snow {
+  color: #fffafa;
+}
+.t-azure {
+  color: #f0ffff;
+}
+.t-beige {
+  color: #f5f5dc;
+}
+.t-linen {
+  color: #faf0e6;
+}
+.t-lightgrey {
+  color: #d3d3d3;
+}
+.t-silver {
+  color: #c0c0c0;
+}
+.t-grey {
+  color: #808080;
+}
+.t-black {
+  color: #000000;
+}
+.t-indianred {
+  color: #cd5c5c;
+}
+.t-lightcoral {
+  color: #f08080;
+}
+.t-salmon {
+  color: #fa8072;
+}
+.t-darksalmon {
+  color: #e9967a;
+}
+.t-lightsalmon {
+  color: #ffa07a;
+}
+.t-crimson {
+  color: #dc143c;
+}
+.t-firebrick {
+  color: #b22222;
+}
+.t-darkred {
+  color: #8b0000;
+}
+.t-lightpink {
+  color: #ffb6c1;
+}
+.t-hotpink {
+  color: #ff69b4;
+}
+.t-deeppink {
+  color: #ff1493;
+}
+.t-mediumvioletred {
+  color: #c71585;
+}
+.t-palevioletred {
+  color: #db7093;
+}
+.t-lightsalmon {
+  color: #ffa07a;
+}
+.t-coral {
+  color: #ff7f50;
+}
+.t-tomato {
+  color: #ff6347;
+}
+.t-orangered {
+  color: #ff4500;
+}
+.t-darkorange {
+  color: #ff8c00;
+}
+.t-gold {
+  color: #ffd700;
+}
+.t-lightyellow {
+  color: #ffffe0;
+}
+.t-lemonchiffon {
+  color: #fffacd;
+}
+.t-lightgoldenrodyellow {
+  color: #fafad2;
+}
+.t-papayawhip {
+  color: #ffefd5;
+}
+.t-moccasin {
+  color: #ffe4b5;
+}
+.t-peachpuff {
+  color: #ffdab9;
+}
+.t-palegoldenrod {
+  color: #eee8aa;
+}
+.t-khaki {
+  color: #f0e68c;
+}
+.t-darkkhaki {
+  color: #bdb76b;
+}
+.t-lavender {
+  color: #e6e6fa;
+}
+.t-thistle {
+  color: #d8bfd8;
+}
+.t-plum {
+  color: #dda0dd;
+}
+.t-orchid {
+  color: #da70d6;
+}
+.t-fuchsia {
+  color: #ff00ff;
+}
+.t-magenta {
+  color: #ff00ff;
+}
+.t-mediumorchid {
+  color: #ba55d3;
+}
+.t-mediumpurple {
+  color: #9370db;
+}
+.t-amethyst {
+  color: #9966cc;
+}
+.t-blueviolet {
+  color: #8a2be2;
+}
+.t-darkviolet {
+  color: #9400d3;
+}
+.t-darkorchid {
+  color: #9932cc;
+}
+.t-darkmagenta {
+  color: #8b008b;
+}
+.t-indigo {
+  color: #4b0082;
+}
+.t-slateblue {
+  color: #6a5acd;
+}
+.t-darkslateblue {
+  color: #483d8b;
+}
+.t-mediumslateblue {
+  color: #7b68ee;
+}
+.t-greenyellow {
+  color: #adff2f;
+}
+.t-chartreuse {
+  color: #7fff00;
+}
+.t-lawngreen {
+  color: #7cfc00;
+}
+.t-limegreen {
+  color: #32cd32;
+}
+.t-palegreen {
+  color: #98fb98;
+}
+.t-lightgreen {
+  color: #90ee90;
+}
+.t-mediumspringgreen {
+  color: #00fa9a;
+}
+.t-springgreen {
+  color: #00ff7f;
+}
+.t-mediumseagreen {
+  color: #3cb371;
+}
+.t-seagreen {
+  color: #2e8b57;
+}
+.t-forestgreen {
+  color: #228b22;
+}
+.t-darkgreen {
+  color: #006400;
+}
+.t-yellowgreen {
+  color: #9acd32;
+}
+.t-olivedrab {
+  color: #6b8e23;
+}
+.t-olive {
+  color: #808000;
+}
+.t-darkolivegreen {
+  color: #556b2f;
+}
+.t-mediumaquamarine {
+  color: #66cdaa;
+}
+.t-darkseagreen {
+  color: #8fbc8f;
+}
+.t-lightseagreen {
+  color: #20b2aa;
+}
+.t-darkcyan {
+  color: #008b8b;
+}
+.t-lightcyan {
+  color: #e0ffff;
+}
+.t-paleturquoise {
+  color: #afeeee;
+}
+.t-aquamarine {
+  color: #7fffd4;
+}
+.t-turquoise {
+  color: #40e0d0;
+}
+.t-mediumturquoise {
+  color: #48d1cc;
+}
+.t-darkturquoise {
+  color: #00ced1;
+}
+.t-cadetblue {
+  color: #5f9ea0;
+}
+.t-steelblue {
+  color: #4682b4;
+}
+.t-lightsteelblue {
+  color: #b0c4de;
+}
+.t-powderblue {
+  color: #b0e0e6;
+}
+.t-lightblue {
+  color: #add8e6;
+}
+.t-skyblue {
+  color: #87ceeb;
+}
+.t-lightskyblue {
+  color: #87cefa;
+}
+.t-deepskyblue {
+  color: #00bfff;
+}
+.t-dodgerblue {
+  color: #1e90ff;
+}
+.t-cornflowerblue {
+  color: #6495ed;
+}
+.t-mediumslateblue {
+  color: #7b68ee;
+}
+.t-royalblue {
+  color: #f41690;
+}
+.t-mediumblue {
+  color: #0000cd;
+}
+.t-darkblue {
+  color: #00008b;
+}
+.t-midnightblue {
+  color: #191970;
+}
+.t-blanchedalmond {
+  color: #ffebcd;
+}
+.t-bisque {
+  color: #ffe4c4;
+}
+.t-navajowhite {
+  color: #ffdead;
+}
+.t-wheat {
+  color: #f5deb3;
+}
+.t-burlywood {
+  color: #deb887;
+}
+.t-rosybrown {
+  color: #bc8f8f;
+}
+.t-sandybrown {
+  color: #f4a460;
+}
+.t-goldenrod {
+  color: #daa520;
+}
+.t-darkgoldenrod {
+  color: #b8860b;
+}
+.t-chocolate {
+  color: #d2691e;
+}
+.t-sienna {
+  color: #a0522d;
+}
+.t-maroon {
+  color: #800000;
+}
+.t-honeydew {
+  color: #f0fff0;
+}
+.t-mintcream {
+  color: #f5fffa;
+}
+.t-aliceblue {
+  color: #f0f8ff;
+}
+.t-ghostwhite {
+  color: #f8f8ff;
+}
+.t-whitesmoke {
+  color: #f5f5f5;
+}
+.t-seashell {
+  color: #fff5ee;
+}
+.t-oldlace {
+  color: #fdf5e6;
+}
+.t-floralwhite {
+  color: #fffaf0;
+}
+.t-ivory {
+  color: #fffff0;
+}
+.t-antiquewhite {
+  color: #faebd7;
+}
+.t-lavenderblush {
+  color: #fff0f5;
+}
+.t-mistyrose {
+  color: #ffe4e1;
+}
+.t-gainsboro {
+  color: #dcdcdc;
+}
+.t-darkgray {
+  color: #a9a9a9;
+}
+.t-dimgray {
+  color: #696969;
+}
+.t-lightslategray {
+  color: #778899;
+}
+.t-slategray {
+  color: #708090;
+}
+.t-darkslategray {
+  color: #2f4f4f;
+}
+.b-red {
+  border-color: #ff0000 !important;
+}
+.b-pink {
+  border-color: #ff1493 !important;
+}
+.b-orange {
+  border-color: #ffa500 !important;
+}
+.b-yellow {
+  border-color: #ffff00 !important;
+}
+.b-violet {
+  border-color: #ee82ee !important;
+}
+.b-purple {
+  border-color: #800080 !important;
+}
+.b-green {
+  border-color: #008000 !important;
+}
+.b-lime {
+  border-color: #00ff00 !important;
+}
+.b-teal {
+  border-color: #008080 !important;
+}
+.b-cyan {
+  border-color: #00ffff !important;
+}
+.b-blue {
+  border-color: #0000ff !important;
+}
+.b-navy {
+  border-color: #000080 !important;
+}
+.b-tan {
+  border-color: #d2b48c !important;
+}
+.b-peru {
+  border-color: #cd853f !important;
+}
+.b-brown {
+  border-color: #8b4513 !important;
+}
+.b-cornsilk {
+  border-color: #fff8dc !important;
+}
+.b-white {
+  border-color: #ffffff !important;
+}
+.b-snow {
+  border-color: #fffafa !important;
+}
+.b-azure {
+  border-color: #f0ffff !important;
+}
+.b-beige {
+  border-color: #f5f5dc !important;
+}
+.b-linen {
+  border-color: #faf0e6 !important;
+}
+.b-lightgrey {
+  border-color: #d3d3d3 !important;
+}
+.b-silver {
+  border-color: #c0c0c0 !important;
+}
+.b-grey {
+  border-color: #808080 !important;
+}
+.b-black {
+  border-color: #000000 !important;
+}
+.b-indianred {
+  border-color: #cd5c5c !important;
+}
+.b-lightcoral {
+  border-color: #f08080 !important;
+}
+.b-salmon {
+  border-color: #fa8072 !important;
+}
+.b-darksalmon {
+  border-color: #e9967a !important;
+}
+.b-lightsalmon {
+  border-color: #ffa07a !important;
+}
+.b-crimson {
+  border-color: #dc143c !important;
+}
+.b-firebrick {
+  border-color: #b22222 !important;
+}
+.b-darkred {
+  border-color: #8b0000 !important;
+}
+.b-lightpink {
+  border-color: #ffb6c1 !important;
+}
+.b-hotpink {
+  border-color: #ff69b4 !important;
+}
+.b-deeppink {
+  border-color: #ff1493 !important;
+}
+.b-mediumvioletred {
+  border-color: #c71585 !important;
+}
+.b-palevioletred {
+  border-color: #db7093 !important;
+}
+.b-lightsalmon {
+  border-color: #ffa07a !important;
+}
+.b-coral {
+  border-color: #ff7f50 !important;
+}
+.b-tomato {
+  border-color: #ff6347 !important;
+}
+.b-orangered {
+  border-color: #ff4500 !important;
+}
+.b-darkorange {
+  border-color: #ff8c00 !important;
+}
+.b-gold {
+  border-color: #ffd700 !important;
+}
+.b-lightyellow {
+  border-color: #ffffe0 !important;
+}
+.b-lemonchiffon {
+  border-color: #fffacd !important;
+}
+.b-lightgoldenrodyellow {
+  border-color: #fafad2 !important;
+}
+.b-papayawhip {
+  border-color: #ffefd5 !important;
+}
+.b-moccasin {
+  border-color: #ffe4b5 !important;
+}
+.b-peachpuff {
+  border-color: #ffdab9 !important;
+}
+.b-palegoldenrod {
+  border-color: #eee8aa !important;
+}
+.b-khaki {
+  border-color: #f0e68c !important;
+}
+.b-darkkhaki {
+  border-color: #bdb76b !important;
+}
+.b-lavender {
+  border-color: #e6e6fa !important;
+}
+.b-thistle {
+  border-color: #d8bfd8 !important;
+}
+.b-plum {
+  border-color: #dda0dd !important;
+}
+.b-orchid {
+  border-color: #da70d6 !important;
+}
+.b-fuchsia {
+  border-color: #ff00ff !important;
+}
+.b-magenta {
+  border-color: #ff00ff !important;
+}
+.b-mediumorchid {
+  border-color: #ba55d3 !important;
+}
+.b-mediumpurple {
+  border-color: #9370db !important;
+}
+.b-amethyst {
+  border-color: #9966cc !important;
+}
+.b-blueviolet {
+  border-color: #8a2be2 !important;
+}
+.b-darkviolet {
+  border-color: #9400d3 !important;
+}
+.b-darkorchid {
+  border-color: #9932cc !important;
+}
+.b-darkmagenta {
+  border-color: #8b008b !important;
+}
+.b-indigo {
+  border-color: #4b0082 !important;
+}
+.b-slateblue {
+  border-color: #6a5acd !important;
+}
+.b-darkslateblue {
+  border-color: #483d8b !important;
+}
+.b-mediumslateblue {
+  border-color: #7b68ee !important;
+}
+.b-greenyellow {
+  border-color: #adff2f !important;
+}
+.b-chartreuse {
+  border-color: #7fff00 !important;
+}
+.b-lawngreen {
+  border-color: #7cfc00 !important;
+}
+.b-limegreen {
+  border-color: #32cd32 !important;
+}
+.b-palegreen {
+  border-color: #98fb98 !important;
+}
+.b-lightgreen {
+  border-color: #90ee90 !important;
+}
+.b-mediumspringgreen {
+  border-color: #00fa9a !important;
+}
+.b-springgreen {
+  border-color: #00ff7f !important;
+}
+.b-mediumseagreen {
+  border-color: #3cb371 !important;
+}
+.b-seagreen {
+  border-color: #2e8b57 !important;
+}
+.b-forestgreen {
+  border-color: #228b22 !important;
+}
+.b-darkgreen {
+  border-color: #006400 !important;
+}
+.b-yellowgreen {
+  border-color: #9acd32 !important;
+}
+.b-olivedrab {
+  border-color: #6b8e23 !important;
+}
+.b-olive {
+  border-color: #808000 !important;
+}
+.b-darkolivegreen {
+  border-color: #556b2f !important;
+}
+.b-mediumaquamarine {
+  border-color: #66cdaa !important;
+}
+.b-darkseagreen {
+  border-color: #8fbc8f !important;
+}
+.b-lightseagreen {
+  border-color: #20b2aa !important;
+}
+.b-darkcyan {
+  border-color: #008b8b !important;
+}
+.b-lightcyan {
+  border-color: #e0ffff !important;
+}
+.b-paleturquoise {
+  border-color: #afeeee !important;
+}
+.b-aquamarine {
+  border-color: #7fffd4 !important;
+}
+.b-turquoise {
+  border-color: #40e0d0 !important;
+}
+.b-mediumturquoise {
+  border-color: #48d1cc !important;
+}
+.b-darkturquoise {
+  border-color: #00ced1 !important;
+}
+.b-cadetblue {
+  border-color: #5f9ea0 !important;
+}
+.b-steelblue {
+  border-color: #4682b4 !important;
+}
+.b-lightsteelblue {
+  border-color: #b0c4de !important;
+}
+.b-powderblue {
+  border-color: #b0e0e6 !important;
+}
+.b-lightblue {
+  border-color: #add8e6 !important;
+}
+.b-skyblue {
+  border-color: #87ceeb !important;
+}
+.b-lightskyblue {
+  border-color: #87cefa !important;
+}
+.b-deepskyblue {
+  border-color: #00bfff !important;
+}
+.b-dodgerblue {
+  border-color: #1e90ff !important;
+}
+.b-cornflowerblue {
+  border-color: #6495ed !important;
+}
+.b-mediumslateblue {
+  border-color: #7b68ee !important;
+}
+.b-royalblue {
+  border-color: #f41690 !important;
+}
+.b-mediumblue {
+  border-color: #0000cd !important;
+}
+.b-darkblue {
+  border-color: #00008b !important;
+}
+.b-midnightblue {
+  border-color: #191970 !important;
+}
+.b-blanchedalmond {
+  border-color: #ffebcd !important;
+}
+.b-bisque {
+  border-color: #ffe4c4 !important;
+}
+.b-navajowhite {
+  border-color: #ffdead !important;
+}
+.b-wheat {
+  border-color: #f5deb3 !important;
+}
+.b-burlywood {
+  border-color: #deb887 !important;
+}
+.b-rosybrown {
+  border-color: #bc8f8f !important;
+}
+.b-sandybrown {
+  border-color: #f4a460 !important;
+}
+.b-goldenrod {
+  border-color: #daa520 !important;
+}
+.b-darkgoldenrod {
+  border-color: #b8860b !important;
+}
+.b-chocolate {
+  border-color: #d2691e !important;
+}
+.b-sienna {
+  border-color: #a0522d !important;
+}
+.b-maroon {
+  border-color: #800000 !important;
+}
+.b-honeydew {
+  border-color: #f0fff0 !important;
+}
+.b-mintcream {
+  border-color: #f5fffa !important;
+}
+.b-aliceblue {
+  border-color: #f0f8ff !important;
+}
+.b-ghostwhite {
+  border-color: #f8f8ff !important;
+}
+.b-whitesmoke {
+  border-color: #f5f5f5 !important;
+}
+.b-seashell {
+  border-color: #fff5ee !important;
+}
+.b-oldlace {
+  border-color: #fdf5e6 !important;
+}
+.b-floralwhite {
+  border-color: #fffaf0 !important;
+}
+.b-ivory {
+  border-color: #fffff0 !important;
+}
+.b-antiquewhite {
+  border-color: #faebd7 !important;
+}
+.b-lavenderblush {
+  border-color: #fff0f5 !important;
+}
+.b-mistyrose {
+  border-color: #ffe4e1 !important;
+}
+.b-gainsboro {
+  border-color: #dcdcdc !important;
+}
+.b-darkgray {
+  border-color: #a9a9a9 !important;
+}
+.b-dimgray {
+  border-color: #696969 !important;
+}
+.b-lightslategray {
+  border-color: #778899 !important;
+}
+.b-slategray {
+  border-color: #708090 !important;
+}
+.b-darkslategray {
+  border-color: #2f4f4f !important;
+}
+.bg-red-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ff0000;
+}
+.bg-pink-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ff1493;
+}
+.bg-orange-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffa500;
+}
+.bg-yellow-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffff00;
+}
+.bg-violet-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ee82ee;
+}
+.bg-purple-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #800080;
+}
+.bg-green-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #008000;
+}
+.bg-lime-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #00ff00;
+}
+.bg-teal-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #008080;
+}
+.bg-cyan-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #00ffff;
+}
+.bg-blue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #0000ff;
+}
+.bg-navy-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #000080;
+}
+.bg-tan-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #d2b48c;
+}
+.bg-peru-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #cd853f;
+}
+.bg-brown-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #8b4513;
+}
+.bg-cornsilk-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #fff8dc;
+}
+.bg-white-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffffff;
+}
+.bg-snow-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #fffafa;
+}
+.bg-azure-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f0ffff;
+}
+.bg-beige-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f5f5dc;
+}
+.bg-linen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #faf0e6;
+}
+.bg-lightgrey-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #d3d3d3;
+}
+.bg-silver-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #c0c0c0;
+}
+.bg-grey-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #808080;
+}
+.bg-black-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #000000;
+}
+.bg-indianred-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #cd5c5c;
+}
+.bg-lightcoral-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f08080;
+}
+.bg-salmon-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #fa8072;
+}
+.bg-darksalmon-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #e9967a;
+}
+.bg-lightsalmon-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffa07a;
+}
+.bg-crimson-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #dc143c;
+}
+.bg-firebrick-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #b22222;
+}
+.bg-darkred-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #8b0000;
+}
+.bg-lightpink-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffb6c1;
+}
+.bg-hotpink-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ff69b4;
+}
+.bg-deeppink-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ff1493;
+}
+.bg-mediumvioletred-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #c71585;
+}
+.bg-palevioletred-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #db7093;
+}
+.bg-lightsalmon-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffa07a;
+}
+.bg-coral-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ff7f50;
+}
+.bg-tomato-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ff6347;
+}
+.bg-orangered-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ff4500;
+}
+.bg-darkorange-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ff8c00;
+}
+.bg-gold-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffd700;
+}
+.bg-lightyellow-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffffe0;
+}
+.bg-lemonchiffon-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #fffacd;
+}
+.bg-lightgoldenrodyellow-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #fafad2;
+}
+.bg-papayawhip-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffefd5;
+}
+.bg-moccasin-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffe4b5;
+}
+.bg-peachpuff-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffdab9;
+}
+.bg-palegoldenrod-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #eee8aa;
+}
+.bg-khaki-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f0e68c;
+}
+.bg-darkkhaki-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #bdb76b;
+}
+.bg-lavender-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #e6e6fa;
+}
+.bg-thistle-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #d8bfd8;
+}
+.bg-plum-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #dda0dd;
+}
+.bg-orchid-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #da70d6;
+}
+.bg-fuchsia-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ff00ff;
+}
+.bg-magenta-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ff00ff;
+}
+.bg-mediumorchid-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ba55d3;
+}
+.bg-mediumpurple-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #9370db;
+}
+.bg-amethyst-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #9966cc;
+}
+.bg-blueviolet-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #8a2be2;
+}
+.bg-darkviolet-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #9400d3;
+}
+.bg-darkorchid-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #9932cc;
+}
+.bg-darkmagenta-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #8b008b;
+}
+.bg-indigo-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #4b0082;
+}
+.bg-slateblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #6a5acd;
+}
+.bg-darkslateblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #483d8b;
+}
+.bg-mediumslateblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #7b68ee;
+}
+.bg-greenyellow-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #adff2f;
+}
+.bg-chartreuse-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #7fff00;
+}
+.bg-lawngreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #7cfc00;
+}
+.bg-limegreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #32cd32;
+}
+.bg-palegreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #98fb98;
+}
+.bg-lightgreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #90ee90;
+}
+.bg-mediumspringgreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #00fa9a;
+}
+.bg-springgreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #00ff7f;
+}
+.bg-mediumseagreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #3cb371;
+}
+.bg-seagreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #2e8b57;
+}
+.bg-forestgreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #228b22;
+}
+.bg-darkgreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #006400;
+}
+.bg-yellowgreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #9acd32;
+}
+.bg-olivedrab-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #6b8e23;
+}
+.bg-olive-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #808000;
+}
+.bg-darkolivegreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #556b2f;
+}
+.bg-mediumaquamarine-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #66cdaa;
+}
+.bg-darkseagreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #8fbc8f;
+}
+.bg-lightseagreen-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #20b2aa;
+}
+.bg-darkcyan-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #008b8b;
+}
+.bg-lightcyan-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #e0ffff;
+}
+.bg-paleturquoise-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #afeeee;
+}
+.bg-aquamarine-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #7fffd4;
+}
+.bg-turquoise-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #40e0d0;
+}
+.bg-mediumturquoise-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #48d1cc;
+}
+.bg-darkturquoise-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #00ced1;
+}
+.bg-cadetblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #5f9ea0;
+}
+.bg-steelblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #4682b4;
+}
+.bg-lightsteelblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #b0c4de;
+}
+.bg-powderblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #b0e0e6;
+}
+.bg-lightblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #add8e6;
+}
+.bg-skyblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #87ceeb;
+}
+.bg-lightskyblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #87cefa;
+}
+.bg-deepskyblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #00bfff;
+}
+.bg-dodgerblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #1e90ff;
+}
+.bg-cornflowerblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #6495ed;
+}
+.bg-mediumslateblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #7b68ee;
+}
+.bg-royalblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f41690;
+}
+.bg-mediumblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #0000cd;
+}
+.bg-darkblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #00008b;
+}
+.bg-midnightblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #191970;
+}
+.bg-blanchedalmond-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffebcd;
+}
+.bg-bisque-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffe4c4;
+}
+.bg-navajowhite-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffdead;
+}
+.bg-wheat-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f5deb3;
+}
+.bg-burlywood-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #deb887;
+}
+.bg-rosybrown-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #bc8f8f;
+}
+.bg-sandybrown-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f4a460;
+}
+.bg-goldenrod-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #daa520;
+}
+.bg-darkgoldenrod-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #b8860b;
+}
+.bg-chocolate-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #d2691e;
+}
+.bg-sienna-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #a0522d;
+}
+.bg-maroon-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #800000;
+}
+.bg-honeydew-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f0fff0;
+}
+.bg-mintcream-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f5fffa;
+}
+.bg-aliceblue-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f0f8ff;
+}
+.bg-ghostwhite-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f8f8ff;
+}
+.bg-whitesmoke-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #f5f5f5;
+}
+.bg-seashell-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #fff5ee;
+}
+.bg-oldlace-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #fdf5e6;
+}
+.bg-floralwhite-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #fffaf0;
+}
+.bg-ivory-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #fffff0;
+}
+.bg-antiquewhite-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #faebd7;
+}
+.bg-lavenderblush-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #fff0f5;
+}
+.bg-mistyrose-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #ffe4e1;
+}
+.bg-gainsboro-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #dcdcdc;
+}
+.bg-darkgray-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #a9a9a9;
+}
+.bg-dimgray-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #696969;
+}
+.bg-lightslategray-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #778899;
+}
+.bg-slategray-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #708090;
+}
+.bg-darkslategray-hover:hover {
+  transition: background-color 0.5s;
+  background-color: #2f4f4f;
+}
+.t-red-hover:hover {
+  transition: color 0.5s;
+  color: #ff0000;
+}
+.t-pink-hover:hover {
+  transition: color 0.5s;
+  color: #ff1493;
+}
+.t-orange-hover:hover {
+  transition: color 0.5s;
+  color: #ffa500;
+}
+.t-yellow-hover:hover {
+  transition: color 0.5s;
+  color: #ffff00;
+}
+.t-violet-hover:hover {
+  transition: color 0.5s;
+  color: #ee82ee;
+}
+.t-purple-hover:hover {
+  transition: color 0.5s;
+  color: #800080;
+}
+.t-green-hover:hover {
+  transition: color 0.5s;
+  color: #008000;
+}
+.t-lime-hover:hover {
+  transition: color 0.5s;
+  color: #00ff00;
+}
+.t-teal-hover:hover {
+  transition: color 0.5s;
+  color: #008080;
+}
+.t-cyan-hover:hover {
+  transition: color 0.5s;
+  color: #00ffff;
+}
+.t-blue-hover:hover {
+  transition: color 0.5s;
+  color: #0000ff;
+}
+.t-navy-hover:hover {
+  transition: color 0.5s;
+  color: #000080;
+}
+.t-tan-hover:hover {
+  transition: color 0.5s;
+  color: #d2b48c;
+}
+.t-peru-hover:hover {
+  transition: color 0.5s;
+  color: #cd853f;
+}
+.t-brown-hover:hover {
+  transition: color 0.5s;
+  color: #8b4513;
+}
+.t-cornsilk-hover:hover {
+  transition: color 0.5s;
+  color: #fff8dc;
+}
+.t-white-hover:hover {
+  transition: color 0.5s;
+  color: #ffffff;
+}
+.t-snow-hover:hover {
+  transition: color 0.5s;
+  color: #fffafa;
+}
+.t-azure-hover:hover {
+  transition: color 0.5s;
+  color: #f0ffff;
+}
+.t-beige-hover:hover {
+  transition: color 0.5s;
+  color: #f5f5dc;
+}
+.t-linen-hover:hover {
+  transition: color 0.5s;
+  color: #faf0e6;
+}
+.t-lightgrey-hover:hover {
+  transition: color 0.5s;
+  color: #d3d3d3;
+}
+.t-silver-hover:hover {
+  transition: color 0.5s;
+  color: #c0c0c0;
+}
+.t-grey-hover:hover {
+  transition: color 0.5s;
+  color: #808080;
+}
+.t-black-hover:hover {
+  transition: color 0.5s;
+  color: #000000;
+}
+.t-indianred-hover:hover {
+  transition: color 0.5s;
+  color: #cd5c5c;
+}
+.t-lightcoral-hover:hover {
+  transition: color 0.5s;
+  color: #f08080;
+}
+.t-salmon-hover:hover {
+  transition: color 0.5s;
+  color: #fa8072;
+}
+.t-darksalmon-hover:hover {
+  transition: color 0.5s;
+  color: #e9967a;
+}
+.t-lightsalmon-hover:hover {
+  transition: color 0.5s;
+  color: #ffa07a;
+}
+.t-crimson-hover:hover {
+  transition: color 0.5s;
+  color: #dc143c;
+}
+.t-firebrick-hover:hover {
+  transition: color 0.5s;
+  color: #b22222;
+}
+.t-darkred-hover:hover {
+  transition: color 0.5s;
+  color: #8b0000;
+}
+.t-lightpink-hover:hover {
+  transition: color 0.5s;
+  color: #ffb6c1;
+}
+.t-hotpink-hover:hover {
+  transition: color 0.5s;
+  color: #ff69b4;
+}
+.t-deeppink-hover:hover {
+  transition: color 0.5s;
+  color: #ff1493;
+}
+.t-mediumvioletred-hover:hover {
+  transition: color 0.5s;
+  color: #c71585;
+}
+.t-palevioletred-hover:hover {
+  transition: color 0.5s;
+  color: #db7093;
+}
+.t-lightsalmon-hover:hover {
+  transition: color 0.5s;
+  color: #ffa07a;
+}
+.t-coral-hover:hover {
+  transition: color 0.5s;
+  color: #ff7f50;
+}
+.t-tomato-hover:hover {
+  transition: color 0.5s;
+  color: #ff6347;
+}
+.t-orangered-hover:hover {
+  transition: color 0.5s;
+  color: #ff4500;
+}
+.t-darkorange-hover:hover {
+  transition: color 0.5s;
+  color: #ff8c00;
+}
+.t-gold-hover:hover {
+  transition: color 0.5s;
+  color: #ffd700;
+}
+.t-lightyellow-hover:hover {
+  transition: color 0.5s;
+  color: #ffffe0;
+}
+.t-lemonchiffon-hover:hover {
+  transition: color 0.5s;
+  color: #fffacd;
+}
+.t-lightgoldenrodyellow-hover:hover {
+  transition: color 0.5s;
+  color: #fafad2;
+}
+.t-papayawhip-hover:hover {
+  transition: color 0.5s;
+  color: #ffefd5;
+}
+.t-moccasin-hover:hover {
+  transition: color 0.5s;
+  color: #ffe4b5;
+}
+.t-peachpuff-hover:hover {
+  transition: color 0.5s;
+  color: #ffdab9;
+}
+.t-palegoldenrod-hover:hover {
+  transition: color 0.5s;
+  color: #eee8aa;
+}
+.t-khaki-hover:hover {
+  transition: color 0.5s;
+  color: #f0e68c;
+}
+.t-darkkhaki-hover:hover {
+  transition: color 0.5s;
+  color: #bdb76b;
+}
+.t-lavender-hover:hover {
+  transition: color 0.5s;
+  color: #e6e6fa;
+}
+.t-thistle-hover:hover {
+  transition: color 0.5s;
+  color: #d8bfd8;
+}
+.t-plum-hover:hover {
+  transition: color 0.5s;
+  color: #dda0dd;
+}
+.t-orchid-hover:hover {
+  transition: color 0.5s;
+  color: #da70d6;
+}
+.t-fuchsia-hover:hover {
+  transition: color 0.5s;
+  color: #ff00ff;
+}
+.t-magenta-hover:hover {
+  transition: color 0.5s;
+  color: #ff00ff;
+}
+.t-mediumorchid-hover:hover {
+  transition: color 0.5s;
+  color: #ba55d3;
+}
+.t-mediumpurple-hover:hover {
+  transition: color 0.5s;
+  color: #9370db;
+}
+.t-amethyst-hover:hover {
+  transition: color 0.5s;
+  color: #9966cc;
+}
+.t-blueviolet-hover:hover {
+  transition: color 0.5s;
+  color: #8a2be2;
+}
+.t-darkviolet-hover:hover {
+  transition: color 0.5s;
+  color: #9400d3;
+}
+.t-darkorchid-hover:hover {
+  transition: color 0.5s;
+  color: #9932cc;
+}
+.t-darkmagenta-hover:hover {
+  transition: color 0.5s;
+  color: #8b008b;
+}
+.t-indigo-hover:hover {
+  transition: color 0.5s;
+  color: #4b0082;
+}
+.t-slateblue-hover:hover {
+  transition: color 0.5s;
+  color: #6a5acd;
+}
+.t-darkslateblue-hover:hover {
+  transition: color 0.5s;
+  color: #483d8b;
+}
+.t-mediumslateblue-hover:hover {
+  transition: color 0.5s;
+  color: #7b68ee;
+}
+.t-greenyellow-hover:hover {
+  transition: color 0.5s;
+  color: #adff2f;
+}
+.t-chartreuse-hover:hover {
+  transition: color 0.5s;
+  color: #7fff00;
+}
+.t-lawngreen-hover:hover {
+  transition: color 0.5s;
+  color: #7cfc00;
+}
+.t-limegreen-hover:hover {
+  transition: color 0.5s;
+  color: #32cd32;
+}
+.t-palegreen-hover:hover {
+  transition: color 0.5s;
+  color: #98fb98;
+}
+.t-lightgreen-hover:hover {
+  transition: color 0.5s;
+  color: #90ee90;
+}
+.t-mediumspringgreen-hover:hover {
+  transition: color 0.5s;
+  color: #00fa9a;
+}
+.t-springgreen-hover:hover {
+  transition: color 0.5s;
+  color: #00ff7f;
+}
+.t-mediumseagreen-hover:hover {
+  transition: color 0.5s;
+  color: #3cb371;
+}
+.t-seagreen-hover:hover {
+  transition: color 0.5s;
+  color: #2e8b57;
+}
+.t-forestgreen-hover:hover {
+  transition: color 0.5s;
+  color: #228b22;
+}
+.t-darkgreen-hover:hover {
+  transition: color 0.5s;
+  color: #006400;
+}
+.t-yellowgreen-hover:hover {
+  transition: color 0.5s;
+  color: #9acd32;
+}
+.t-olivedrab-hover:hover {
+  transition: color 0.5s;
+  color: #6b8e23;
+}
+.t-olive-hover:hover {
+  transition: color 0.5s;
+  color: #808000;
+}
+.t-darkolivegreen-hover:hover {
+  transition: color 0.5s;
+  color: #556b2f;
+}
+.t-mediumaquamarine-hover:hover {
+  transition: color 0.5s;
+  color: #66cdaa;
+}
+.t-darkseagreen-hover:hover {
+  transition: color 0.5s;
+  color: #8fbc8f;
+}
+.t-lightseagreen-hover:hover {
+  transition: color 0.5s;
+  color: #20b2aa;
+}
+.t-darkcyan-hover:hover {
+  transition: color 0.5s;
+  color: #008b8b;
+}
+.t-lightcyan-hover:hover {
+  transition: color 0.5s;
+  color: #e0ffff;
+}
+.t-paleturquoise-hover:hover {
+  transition: color 0.5s;
+  color: #afeeee;
+}
+.t-aquamarine-hover:hover {
+  transition: color 0.5s;
+  color: #7fffd4;
+}
+.t-turquoise-hover:hover {
+  transition: color 0.5s;
+  color: #40e0d0;
+}
+.t-mediumturquoise-hover:hover {
+  transition: color 0.5s;
+  color: #48d1cc;
+}
+.t-darkturquoise-hover:hover {
+  transition: color 0.5s;
+  color: #00ced1;
+}
+.t-cadetblue-hover:hover {
+  transition: color 0.5s;
+  color: #5f9ea0;
+}
+.t-steelblue-hover:hover {
+  transition: color 0.5s;
+  color: #4682b4;
+}
+.t-lightsteelblue-hover:hover {
+  transition: color 0.5s;
+  color: #b0c4de;
+}
+.t-powderblue-hover:hover {
+  transition: color 0.5s;
+  color: #b0e0e6;
+}
+.t-lightblue-hover:hover {
+  transition: color 0.5s;
+  color: #add8e6;
+}
+.t-skyblue-hover:hover {
+  transition: color 0.5s;
+  color: #87ceeb;
+}
+.t-lightskyblue-hover:hover {
+  transition: color 0.5s;
+  color: #87cefa;
+}
+.t-deepskyblue-hover:hover {
+  transition: color 0.5s;
+  color: #00bfff;
+}
+.t-dodgerblue-hover:hover {
+  transition: color 0.5s;
+  color: #1e90ff;
+}
+.t-cornflowerblue-hover:hover {
+  transition: color 0.5s;
+  color: #6495ed;
+}
+.t-mediumslateblue-hover:hover {
+  transition: color 0.5s;
+  color: #7b68ee;
+}
+.t-royalblue-hover:hover {
+  transition: color 0.5s;
+  color: #f41690;
+}
+.t-mediumblue-hover:hover {
+  transition: color 0.5s;
+  color: #0000cd;
+}
+.t-darkblue-hover:hover {
+  transition: color 0.5s;
+  color: #00008b;
+}
+.t-midnightblue-hover:hover {
+  transition: color 0.5s;
+  color: #191970;
+}
+.t-blanchedalmond-hover:hover {
+  transition: color 0.5s;
+  color: #ffebcd;
+}
+.t-bisque-hover:hover {
+  transition: color 0.5s;
+  color: #ffe4c4;
+}
+.t-navajowhite-hover:hover {
+  transition: color 0.5s;
+  color: #ffdead;
+}
+.t-wheat-hover:hover {
+  transition: color 0.5s;
+  color: #f5deb3;
+}
+.t-burlywood-hover:hover {
+  transition: color 0.5s;
+  color: #deb887;
+}
+.t-rosybrown-hover:hover {
+  transition: color 0.5s;
+  color: #bc8f8f;
+}
+.t-sandybrown-hover:hover {
+  transition: color 0.5s;
+  color: #f4a460;
+}
+.t-goldenrod-hover:hover {
+  transition: color 0.5s;
+  color: #daa520;
+}
+.t-darkgoldenrod-hover:hover {
+  transition: color 0.5s;
+  color: #b8860b;
+}
+.t-chocolate-hover:hover {
+  transition: color 0.5s;
+  color: #d2691e;
+}
+.t-sienna-hover:hover {
+  transition: color 0.5s;
+  color: #a0522d;
+}
+.t-maroon-hover:hover {
+  transition: color 0.5s;
+  color: #800000;
+}
+.t-honeydew-hover:hover {
+  transition: color 0.5s;
+  color: #f0fff0;
+}
+.t-mintcream-hover:hover {
+  transition: color 0.5s;
+  color: #f5fffa;
+}
+.t-aliceblue-hover:hover {
+  transition: color 0.5s;
+  color: #f0f8ff;
+}
+.t-ghostwhite-hover:hover {
+  transition: color 0.5s;
+  color: #f8f8ff;
+}
+.t-whitesmoke-hover:hover {
+  transition: color 0.5s;
+  color: #f5f5f5;
+}
+.t-seashell-hover:hover {
+  transition: color 0.5s;
+  color: #fff5ee;
+}
+.t-oldlace-hover:hover {
+  transition: color 0.5s;
+  color: #fdf5e6;
+}
+.t-floralwhite-hover:hover {
+  transition: color 0.5s;
+  color: #fffaf0;
+}
+.t-ivory-hover:hover {
+  transition: color 0.5s;
+  color: #fffff0;
+}
+.t-antiquewhite-hover:hover {
+  transition: color 0.5s;
+  color: #faebd7;
+}
+.t-lavenderblush-hover:hover {
+  transition: color 0.5s;
+  color: #fff0f5;
+}
+.t-mistyrose-hover:hover {
+  transition: color 0.5s;
+  color: #ffe4e1;
+}
+.t-gainsboro-hover:hover {
+  transition: color 0.5s;
+  color: #dcdcdc;
+}
+.t-darkgray-hover:hover {
+  transition: color 0.5s;
+  color: #a9a9a9;
+}
+.t-dimgray-hover:hover {
+  transition: color 0.5s;
+  color: #696969;
+}
+.t-lightslategray-hover:hover {
+  transition: color 0.5s;
+  color: #778899;
+}
+.t-slategray-hover:hover {
+  transition: color 0.5s;
+  color: #708090;
+}
+.t-darkslategray-hover:hover {
+  transition: color 0.5s;
+  color: #2f4f4f;
+}
+.b-red-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ff0000 !important;
+}
+.b-pink-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ff1493 !important;
+}
+.b-orange-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffa500 !important;
+}
+.b-yellow-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffff00 !important;
+}
+.b-violet-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ee82ee !important;
+}
+.b-purple-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #800080 !important;
+}
+.b-green-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #008000 !important;
+}
+.b-lime-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #00ff00 !important;
+}
+.b-teal-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #008080 !important;
+}
+.b-cyan-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #00ffff !important;
+}
+.b-blue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #0000ff !important;
+}
+.b-navy-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #000080 !important;
+}
+.b-tan-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #d2b48c !important;
+}
+.b-peru-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #cd853f !important;
+}
+.b-brown-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #8b4513 !important;
+}
+.b-cornsilk-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #fff8dc !important;
+}
+.b-white-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffffff !important;
+}
+.b-snow-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #fffafa !important;
+}
+.b-azure-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f0ffff !important;
+}
+.b-beige-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f5f5dc !important;
+}
+.b-linen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #faf0e6 !important;
+}
+.b-lightgrey-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #d3d3d3 !important;
+}
+.b-silver-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #c0c0c0 !important;
+}
+.b-grey-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #808080 !important;
+}
+.b-black-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #000000 !important;
+}
+.b-indianred-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #cd5c5c !important;
+}
+.b-lightcoral-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f08080 !important;
+}
+.b-salmon-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #fa8072 !important;
+}
+.b-darksalmon-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #e9967a !important;
+}
+.b-lightsalmon-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffa07a !important;
+}
+.b-crimson-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #dc143c !important;
+}
+.b-firebrick-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #b22222 !important;
+}
+.b-darkred-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #8b0000 !important;
+}
+.b-lightpink-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffb6c1 !important;
+}
+.b-hotpink-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ff69b4 !important;
+}
+.b-deeppink-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ff1493 !important;
+}
+.b-mediumvioletred-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #c71585 !important;
+}
+.b-palevioletred-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #db7093 !important;
+}
+.b-lightsalmon-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffa07a !important;
+}
+.b-coral-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ff7f50 !important;
+}
+.b-tomato-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ff6347 !important;
+}
+.b-orangered-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ff4500 !important;
+}
+.b-darkorange-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ff8c00 !important;
+}
+.b-gold-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffd700 !important;
+}
+.b-lightyellow-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffffe0 !important;
+}
+.b-lemonchiffon-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #fffacd !important;
+}
+.b-lightgoldenrodyellow-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #fafad2 !important;
+}
+.b-papayawhip-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffefd5 !important;
+}
+.b-moccasin-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffe4b5 !important;
+}
+.b-peachpuff-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffdab9 !important;
+}
+.b-palegoldenrod-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #eee8aa !important;
+}
+.b-khaki-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f0e68c !important;
+}
+.b-darkkhaki-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #bdb76b !important;
+}
+.b-lavender-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #e6e6fa !important;
+}
+.b-thistle-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #d8bfd8 !important;
+}
+.b-plum-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #dda0dd !important;
+}
+.b-orchid-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #da70d6 !important;
+}
+.b-fuchsia-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ff00ff !important;
+}
+.b-magenta-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ff00ff !important;
+}
+.b-mediumorchid-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ba55d3 !important;
+}
+.b-mediumpurple-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #9370db !important;
+}
+.b-amethyst-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #9966cc !important;
+}
+.b-blueviolet-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #8a2be2 !important;
+}
+.b-darkviolet-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #9400d3 !important;
+}
+.b-darkorchid-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #9932cc !important;
+}
+.b-darkmagenta-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #8b008b !important;
+}
+.b-indigo-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #4b0082 !important;
+}
+.b-slateblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #6a5acd !important;
+}
+.b-darkslateblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #483d8b !important;
+}
+.b-mediumslateblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #7b68ee !important;
+}
+.b-greenyellow-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #adff2f !important;
+}
+.b-chartreuse-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #7fff00 !important;
+}
+.b-lawngreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #7cfc00 !important;
+}
+.b-limegreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #32cd32 !important;
+}
+.b-palegreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #98fb98 !important;
+}
+.b-lightgreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #90ee90 !important;
+}
+.b-mediumspringgreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #00fa9a !important;
+}
+.b-springgreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #00ff7f !important;
+}
+.b-mediumseagreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #3cb371 !important;
+}
+.b-seagreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #2e8b57 !important;
+}
+.b-forestgreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #228b22 !important;
+}
+.b-darkgreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #006400 !important;
+}
+.b-yellowgreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #9acd32 !important;
+}
+.b-olivedrab-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #6b8e23 !important;
+}
+.b-olive-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #808000 !important;
+}
+.b-darkolivegreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #556b2f !important;
+}
+.b-mediumaquamarine-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #66cdaa !important;
+}
+.b-darkseagreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #8fbc8f !important;
+}
+.b-lightseagreen-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #20b2aa !important;
+}
+.b-darkcyan-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #008b8b !important;
+}
+.b-lightcyan-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #e0ffff !important;
+}
+.b-paleturquoise-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #afeeee !important;
+}
+.b-aquamarine-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #7fffd4 !important;
+}
+.b-turquoise-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #40e0d0 !important;
+}
+.b-mediumturquoise-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #48d1cc !important;
+}
+.b-darkturquoise-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #00ced1 !important;
+}
+.b-cadetblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #5f9ea0 !important;
+}
+.b-steelblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #4682b4 !important;
+}
+.b-lightsteelblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #b0c4de !important;
+}
+.b-powderblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #b0e0e6 !important;
+}
+.b-lightblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #add8e6 !important;
+}
+.b-skyblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #87ceeb !important;
+}
+.b-lightskyblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #87cefa !important;
+}
+.b-deepskyblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #00bfff !important;
+}
+.b-dodgerblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #1e90ff !important;
+}
+.b-cornflowerblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #6495ed !important;
+}
+.b-mediumslateblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #7b68ee !important;
+}
+.b-royalblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f41690 !important;
+}
+.b-mediumblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #0000cd !important;
+}
+.b-darkblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #00008b !important;
+}
+.b-midnightblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #191970 !important;
+}
+.b-blanchedalmond-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffebcd !important;
+}
+.b-bisque-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffe4c4 !important;
+}
+.b-navajowhite-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffdead !important;
+}
+.b-wheat-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f5deb3 !important;
+}
+.b-burlywood-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #deb887 !important;
+}
+.b-rosybrown-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #bc8f8f !important;
+}
+.b-sandybrown-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f4a460 !important;
+}
+.b-goldenrod-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #daa520 !important;
+}
+.b-darkgoldenrod-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #b8860b !important;
+}
+.b-chocolate-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #d2691e !important;
+}
+.b-sienna-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #a0522d !important;
+}
+.b-maroon-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #800000 !important;
+}
+.b-honeydew-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f0fff0 !important;
+}
+.b-mintcream-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f5fffa !important;
+}
+.b-aliceblue-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f0f8ff !important;
+}
+.b-ghostwhite-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f8f8ff !important;
+}
+.b-whitesmoke-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #f5f5f5 !important;
+}
+.b-seashell-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #fff5ee !important;
+}
+.b-oldlace-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #fdf5e6 !important;
+}
+.b-floralwhite-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #fffaf0 !important;
+}
+.b-ivory-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #fffff0 !important;
+}
+.b-antiquewhite-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #faebd7 !important;
+}
+.b-lavenderblush-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #fff0f5 !important;
+}
+.b-mistyrose-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #ffe4e1 !important;
+}
+.b-gainsboro-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #dcdcdc !important;
+}
+.b-darkgray-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #a9a9a9 !important;
+}
+.b-dimgray-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #696969 !important;
+}
+.b-lightslategray-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #778899 !important;
+}
+.b-slategray-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #708090 !important;
+}
+.b-darkslategray-hover:hover {
+  transition: border-color 0.5s;
+  border-color: #2f4f4f !important;
+}
+.row {
+  width: 100%;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display:block;
+}
+[class*="c1-"] {
+  float: left;
+}
+[class*="c2-"] {
+  float: left;
+}
+[class*="c3-"] {
+  float: left;
+}
+[class*="c4-"] {
+  float: left;
+}
+[class*="c5-"] {
+  float: left;
+}
+[class*="c6-"] {
+  float: left;
+}
+[class*="c7-"] {
+  float: left;
+}
+[class*="c8-"] {
+  float: left;
+}
+[class*="c9-"] {
+  float: left;
+}
+[class*="c10-"] {
+  float: left;
+}
+[class*="c11-"] {
+  float: left;
+}
+[class*="c12-"] {
+  float: left;
+}
+[class*="c13-"] {
+  float: left;
+}
+[class*="c14-"] {
+  float: left;
+}
+[class*="c15-"] {
+  float: left;
+}
+[class*="c16-"] {
+  float: left;
+}
+[class*="c17-"] {
+  float: left;
+}
+[class*="c18-"] {
+  float: left;
+}
+[class*="c19-"] {
+  float: left;
+}
+[class*="c20-"] {
+  float: left;
+}
+[class*="cl1-"] {
+  float: left;
+}
+[class*="cl2-"] {
+  float: left;
+}
+[class*="cl3-"] {
+  float: left;
+}
+[class*="cl4-"] {
+  float: left;
+}
+[class*="cl5-"] {
+  float: left;
+}
+[class*="cl6-"] {
+  float: left;
+}
+[class*="cl7-"] {
+  float: left;
+}
+[class*="cl8-"] {
+  float: left;
+}
+[class*="cl9-"] {
+  float: left;
+}
+[class*="cl10-"] {
+  float: left;
+}
+[class*="cl11-"] {
+  float: left;
+}
+[class*="cl12-"] {
+  float: left;
+}
+[class*="cl13-"] {
+  float: left;
+}
+[class*="cl14-"] {
+  float: left;
+}
+[class*="cl15-"] {
+  float: left;
+}
+[class*="cl16-"] {
+  float: left;
+}
+[class*="cl17-"] {
+  float: left;
+}
+[class*="cl18-"] {
+  float: left;
+}
+[class*="cl19-"] {
+  float: left;
+}
+[class*="cl20-"] {
+  float: left;
+}
+[class*="cm1-"] {
+  float: left;
+}
+[class*="cm2-"] {
+  float: left;
+}
+[class*="cm3-"] {
+  float: left;
+}
+[class*="cm4-"] {
+  float: left;
+}
+[class*="cm5-"] {
+  float: left;
+}
+[class*="cm6-"] {
+  float: left;
+}
+[class*="cm7-"] {
+  float: left;
+}
+[class*="cm8-"] {
+  float: left;
+}
+[class*="cm9-"] {
+  float: left;
+}
+[class*="cm10-"] {
+  float: left;
+}
+[class*="cm11-"] {
+  float: left;
+}
+[class*="cm12-"] {
+  float: left;
+}
+[class*="cm13-"] {
+  float: left;
+}
+[class*="cm14-"] {
+  float: left;
+}
+[class*="cm15-"] {
+  float: left;
+}
+[class*="cm16-"] {
+  float: left;
+}
+[class*="cm17-"] {
+  float: left;
+}
+[class*="cm18-"] {
+  float: left;
+}
+[class*="cm19-"] {
+  float: left;
+}
+[class*="cm20-"] {
+  float: left;
+}
+[class*="cs1-"] {
+  float: left;
+}
+[class*="cs2-"] {
+  float: left;
+}
+[class*="cs3-"] {
+  float: left;
+}
+[class*="cs4-"] {
+  float: left;
+}
+[class*="cs5-"] {
+  float: left;
+}
+[class*="cs6-"] {
+  float: left;
+}
+[class*="cs7-"] {
+  float: left;
+}
+[class*="cs8-"] {
+  float: left;
+}
+[class*="cs9-"] {
+  float: left;
+}
+[class*="cs10-"] {
+  float: left;
+}
+[class*="cs11-"] {
+  float: left;
+}
+[class*="cs12-"] {
+  float: left;
+}
+[class*="cs13-"] {
+  float: left;
+}
+[class*="cs14-"] {
+  float: left;
+}
+[class*="cs15-"] {
+  float: left;
+}
+[class*="cs16-"] {
+  float: left;
+}
+[class*="cs17-"] {
+  float: left;
+}
+[class*="cs18-"] {
+  float: left;
+}
+[class*="cs19-"] {
+  float: left;
+}
+[class*="cs20-"] {
+  float: left;
+}
+@media (min-width: 1025px) {
+  .cl1-1 {
+    width: 100%;
+  }
+  .cl2-1 {
+    width: 50%;
+  }
+  .cl2-2 {
+    width: 100%;
+  }
+  .cl3-1 {
+    width: 33.33%;
+  }
+  .cl3-2 {
+    width: 66.67%;
+  }
+  .cl3-3 {
+    width: 100%;
+  }
+  .cl4-1 {
+    width: 25%;
+  }
+  .cl4-2 {
+    width: 50%;
+  }
+  .cl4-3 {
+    width: 75%;
+  }
+  .cl4-4 {
+    width: 100%;
+  }
+  .cl5-1 {
+    width: 20%;
+  }
+  .cl5-2 {
+    width: 40%;
+  }
+  .cl5-3 {
+    width: 60%;
+  }
+  .cl5-4 {
+    width: 80%;
+  }
+  .cl5-5 {
+    width: 100%;
+  }
+  .cl6-1 {
+    width: 16.67%;
+  }
+  .cl6-2 {
+    width: 33.33%;
+  }
+  .cl6-3 {
+    width: 50%;
+  }
+  .cl6-4 {
+    width: 66.67%;
+  }
+  .cl6-5 {
+    width: 83.33%;
+  }
+  .cl6-6 {
+    width: 100%;
+  }
+  .cl7-1 {
+    width: 14.29%;
+  }
+  .cl7-2 {
+    width: 28.57%;
+  }
+  .cl7-3 {
+    width: 42.86%;
+  }
+  .cl7-4 {
+    width: 57.14%;
+  }
+  .cl7-5 {
+    width: 71.43%;
+  }
+  .cl7-6 {
+    width: 85.71%;
+  }
+  .cl7-7 {
+    width: 100%;
+  }
+  .cl8-1 {
+    width: 12.5%;
+  }
+  .cl8-2 {
+    width: 25%;
+  }
+  .cl8-3 {
+    width: 37.5%;
+  }
+  .cl8-4 {
+    width: 50%;
+  }
+  .cl8-5 {
+    width: 62.5%;
+  }
+  .cl8-6 {
+    width: 75%;
+  }
+  .cl8-7 {
+    width: 87.5%;
+  }
+  .cl8-8 {
+    width: 100%;
+  }
+  .cl9-1 {
+    width: 11.11%;
+  }
+  .cl9-2 {
+    width: 22.22%;
+  }
+  .cl9-3 {
+    width: 33.33%;
+  }
+  .cl9-4 {
+    width: 44.44%;
+  }
+  .cl9-5 {
+    width: 55.56%;
+  }
+  .cl9-6 {
+    width: 66.67%;
+  }
+  .cl9-7 {
+    width: 77.78%;
+  }
+  .cl9-8 {
+    width: 88.89%;
+  }
+  .cl9-9 {
+    width: 100%;
+  }
+  .cl10-1 {
+    width: 10%;
+  }
+  .cl10-2 {
+    width: 20%;
+  }
+  .cl10-3 {
+    width: 30%;
+  }
+  .cl10-4 {
+    width: 40%;
+  }
+  .cl10-5 {
+    width: 50%;
+  }
+  .cl10-6 {
+    width: 60%;
+  }
+  .cl10-7 {
+    width: 70%;
+  }
+  .cl10-8 {
+    width: 80%;
+  }
+  .cl10-9 {
+    width: 90%;
+  }
+  .cl10-10 {
+    width: 100%;
+  }
+  .cl11-1 {
+    width: 9.09%;
+  }
+  .cl11-2 {
+    width: 18.18%;
+  }
+  .cl11-3 {
+    width: 27.27%;
+  }
+  .cl11-4 {
+    width: 36.36%;
+  }
+  .cl11-5 {
+    width: 45.45%;
+  }
+  .cl11-6 {
+    width: 54.55%;
+  }
+  .cl11-7 {
+    width: 63.64%;
+  }
+  .cl11-8 {
+    width: 72.73%;
+  }
+  .cl11-9 {
+    width: 81.82%;
+  }
+  .cl11-10 {
+    width: 90.91%;
+  }
+  .cl11-11 {
+    width: 100%;
+  }
+  .cl12-1 {
+    width: 8.33%;
+  }
+  .cl12-2 {
+    width: 16.67%;
+  }
+  .cl12-3 {
+    width: 25%;
+  }
+  .cl12-4 {
+    width: 33.33%;
+  }
+  .cl12-5 {
+    width: 41.67%;
+  }
+  .cl12-6 {
+    width: 50%;
+  }
+  .cl12-7 {
+    width: 58.33%;
+  }
+  .cl12-8 {
+    width: 66.67%;
+  }
+  .cl12-9 {
+    width: 75%;
+  }
+  .cl12-10 {
+    width: 83.33%;
+  }
+  .cl12-11 {
+    width: 91.67%;
+  }
+  .cl12-12 {
+    width: 100%;
+  }
+  .cl13-1 {
+    width: 7.69%;
+  }
+  .cl13-2 {
+    width: 15.38%;
+  }
+  .cl13-3 {
+    width: 23.08%;
+  }
+  .cl13-4 {
+    width: 30.77%;
+  }
+  .cl13-5 {
+    width: 38.46%;
+  }
+  .cl13-6 {
+    width: 46.15%;
+  }
+  .cl13-7 {
+    width: 53.85%;
+  }
+  .cl13-8 {
+    width: 61.54%;
+  }
+  .cl13-9 {
+    width: 69.23%;
+  }
+  .cl13-10 {
+    width: 76.92%;
+  }
+  .cl13-11 {
+    width: 84.62%;
+  }
+  .cl13-12 {
+    width: 92.31%;
+  }
+  .cl13-13 {
+    width: 100%;
+  }
+  .cl14-1 {
+    width: 7.14%;
+  }
+  .cl14-2 {
+    width: 14.29%;
+  }
+  .cl14-3 {
+    width: 21.43%;
+  }
+  .cl14-4 {
+    width: 28.57%;
+  }
+  .cl14-5 {
+    width: 35.71%;
+  }
+  .cl14-6 {
+    width: 42.86%;
+  }
+  .cl14-7 {
+    width: 50%;
+  }
+  .cl14-8 {
+    width: 57.14%;
+  }
+  .cl14-9 {
+    width: 64.29%;
+  }
+  .cl14-10 {
+    width: 71.43%;
+  }
+  .cl14-11 {
+    width: 78.57%;
+  }
+  .cl14-12 {
+    width: 85.71%;
+  }
+  .cl14-13 {
+    width: 92.86%;
+  }
+  .cl14-14 {
+    width: 100%;
+  }
+  .cl15-1 {
+    width: 6.67%;
+  }
+  .cl15-2 {
+    width: 13.33%;
+  }
+  .cl15-3 {
+    width: 20%;
+  }
+  .cl15-4 {
+    width: 26.67%;
+  }
+  .cl15-5 {
+    width: 33.33%;
+  }
+  .cl15-6 {
+    width: 40%;
+  }
+  .cl15-7 {
+    width: 46.67%;
+  }
+  .cl15-8 {
+    width: 53.33%;
+  }
+  .cl15-9 {
+    width: 60%;
+  }
+  .cl15-10 {
+    width: 66.67%;
+  }
+  .cl15-11 {
+    width: 73.33%;
+  }
+  .cl15-12 {
+    width: 80%;
+  }
+  .cl15-13 {
+    width: 86.67%;
+  }
+  .cl15-14 {
+    width: 93.33%;
+  }
+  .cl15-15 {
+    width: 100%;
+  }
+  .cl16-1 {
+    width: 6.25%;
+  }
+  .cl16-2 {
+    width: 12.5%;
+  }
+  .cl16-3 {
+    width: 18.75%;
+  }
+  .cl16-4 {
+    width: 25%;
+  }
+  .cl16-5 {
+    width: 31.25%;
+  }
+  .cl16-6 {
+    width: 37.5%;
+  }
+  .cl16-7 {
+    width: 43.75%;
+  }
+  .cl16-8 {
+    width: 50%;
+  }
+  .cl16-9 {
+    width: 56.25%;
+  }
+  .cl16-10 {
+    width: 62.5%;
+  }
+  .cl16-11 {
+    width: 68.75%;
+  }
+  .cl16-12 {
+    width: 75%;
+  }
+  .cl16-13 {
+    width: 81.25%;
+  }
+  .cl16-14 {
+    width: 87.5%;
+  }
+  .cl16-15 {
+    width: 93.75%;
+  }
+  .cl16-16 {
+    width: 100%;
+  }
+  .cl17-1 {
+    width: 5.88%;
+  }
+  .cl17-2 {
+    width: 11.76%;
+  }
+  .cl17-3 {
+    width: 17.65%;
+  }
+  .cl17-4 {
+    width: 23.53%;
+  }
+  .cl17-5 {
+    width: 29.41%;
+  }
+  .cl17-6 {
+    width: 35.29%;
+  }
+  .cl17-7 {
+    width: 41.18%;
+  }
+  .cl17-8 {
+    width: 47.06%;
+  }
+  .cl17-9 {
+    width: 52.94%;
+  }
+  .cl17-10 {
+    width: 58.82%;
+  }
+  .cl17-11 {
+    width: 64.71%;
+  }
+  .cl17-12 {
+    width: 70.59%;
+  }
+  .cl17-13 {
+    width: 76.47%;
+  }
+  .cl17-14 {
+    width: 82.35%;
+  }
+  .cl17-15 {
+    width: 88.24%;
+  }
+  .cl17-16 {
+    width: 94.12%;
+  }
+  .cl17-17 {
+    width: 100%;
+  }
+  .cl18-1 {
+    width: 5.56%;
+  }
+  .cl18-2 {
+    width: 11.11%;
+  }
+  .cl18-3 {
+    width: 16.67%;
+  }
+  .cl18-4 {
+    width: 22.22%;
+  }
+  .cl18-5 {
+    width: 27.78%;
+  }
+  .cl18-6 {
+    width: 33.33%;
+  }
+  .cl18-7 {
+    width: 38.89%;
+  }
+  .cl18-8 {
+    width: 44.44%;
+  }
+  .cl18-9 {
+    width: 50%;
+  }
+  .cl18-10 {
+    width: 55.56%;
+  }
+  .cl18-11 {
+    width: 61.11%;
+  }
+  .cl18-12 {
+    width: 66.67%;
+  }
+  .cl18-13 {
+    width: 72.22%;
+  }
+  .cl18-14 {
+    width: 77.78%;
+  }
+  .cl18-15 {
+    width: 83.33%;
+  }
+  .cl18-16 {
+    width: 88.89%;
+  }
+  .cl18-17 {
+    width: 94.44%;
+  }
+  .cl18-18 {
+    width: 100%;
+  }
+  .cl19-1 {
+    width: 5.26%;
+  }
+  .cl19-2 {
+    width: 10.53%;
+  }
+  .cl19-3 {
+    width: 15.79%;
+  }
+  .cl19-4 {
+    width: 21.05%;
+  }
+  .cl19-5 {
+    width: 26.32%;
+  }
+  .cl19-6 {
+    width: 31.58%;
+  }
+  .cl19-7 {
+    width: 36.84%;
+  }
+  .cl19-8 {
+    width: 42.11%;
+  }
+  .cl19-9 {
+    width: 47.37%;
+  }
+  .cl19-10 {
+    width: 52.63%;
+  }
+  .cl19-11 {
+    width: 57.89%;
+  }
+  .cl19-12 {
+    width: 63.16%;
+  }
+  .cl19-13 {
+    width: 68.42%;
+  }
+  .cl19-14 {
+    width: 73.68%;
+  }
+  .cl19-15 {
+    width: 78.95%;
+  }
+  .cl19-16 {
+    width: 84.21%;
+  }
+  .cl19-17 {
+    width: 89.47%;
+  }
+  .cl19-18 {
+    width: 94.74%;
+  }
+  .cl19-19 {
+    width: 100%;
+  }
+  .cl20-1 {
+    width: 5%;
+  }
+  .cl20-2 {
+    width: 10%;
+  }
+  .cl20-3 {
+    width: 15%;
+  }
+  .cl20-4 {
+    width: 20%;
+  }
+  .cl20-5 {
+    width: 25%;
+  }
+  .cl20-6 {
+    width: 30%;
+  }
+  .cl20-7 {
+    width: 35%;
+  }
+  .cl20-8 {
+    width: 40%;
+  }
+  .cl20-9 {
+    width: 45%;
+  }
+  .cl20-10 {
+    width: 50%;
+  }
+  .cl20-11 {
+    width: 55%;
+  }
+  .cl20-12 {
+    width: 60%;
+  }
+  .cl20-13 {
+    width: 65%;
+  }
+  .cl20-14 {
+    width: 70%;
+  }
+  .cl20-15 {
+    width: 75%;
+  }
+  .cl20-16 {
+    width: 80%;
+  }
+  .cl20-17 {
+    width: 85%;
+  }
+  .cl20-18 {
+    width: 90%;
+  }
+  .cl20-19 {
+    width: 95%;
+  }
+  .cl20-20 {
+    width: 100%;
+  }
+}
+@media (max-width: 1024px) and (min-width: 769px) {
+  .cm1-1 {
+    width: 100%;
+  }
+  .cm2-1 {
+    width: 50%;
+  }
+  .cm2-2 {
+    width: 100%;
+  }
+  .cm3-1 {
+    width: 33.33%;
+  }
+  .cm3-2 {
+    width: 66.67%;
+  }
+  .cm3-3 {
+    width: 100%;
+  }
+  .cm4-1 {
+    width: 25%;
+  }
+  .cm4-2 {
+    width: 50%;
+  }
+  .cm4-3 {
+    width: 75%;
+  }
+  .cm4-4 {
+    width: 100%;
+  }
+  .cm5-1 {
+    width: 20%;
+  }
+  .cm5-2 {
+    width: 40%;
+  }
+  .cm5-3 {
+    width: 60%;
+  }
+  .cm5-4 {
+    width: 80%;
+  }
+  .cm5-5 {
+    width: 100%;
+  }
+  .cm6-1 {
+    width: 16.67%;
+  }
+  .cm6-2 {
+    width: 33.33%;
+  }
+  .cm6-3 {
+    width: 50%;
+  }
+  .cm6-4 {
+    width: 66.67%;
+  }
+  .cm6-5 {
+    width: 83.33%;
+  }
+  .cm6-6 {
+    width: 100%;
+  }
+  .cm7-1 {
+    width: 14.29%;
+  }
+  .cm7-2 {
+    width: 28.57%;
+  }
+  .cm7-3 {
+    width: 42.86%;
+  }
+  .cm7-4 {
+    width: 57.14%;
+  }
+  .cm7-5 {
+    width: 71.43%;
+  }
+  .cm7-6 {
+    width: 85.71%;
+  }
+  .cm7-7 {
+    width: 100%;
+  }
+  .cm8-1 {
+    width: 12.5%;
+  }
+  .cm8-2 {
+    width: 25%;
+  }
+  .cm8-3 {
+    width: 37.5%;
+  }
+  .cm8-4 {
+    width: 50%;
+  }
+  .cm8-5 {
+    width: 62.5%;
+  }
+  .cm8-6 {
+    width: 75%;
+  }
+  .cm8-7 {
+    width: 87.5%;
+  }
+  .cm8-8 {
+    width: 100%;
+  }
+  .cm9-1 {
+    width: 11.11%;
+  }
+  .cm9-2 {
+    width: 22.22%;
+  }
+  .cm9-3 {
+    width: 33.33%;
+  }
+  .cm9-4 {
+    width: 44.44%;
+  }
+  .cm9-5 {
+    width: 55.56%;
+  }
+  .cm9-6 {
+    width: 66.67%;
+  }
+  .cm9-7 {
+    width: 77.78%;
+  }
+  .cm9-8 {
+    width: 88.89%;
+  }
+  .cm9-9 {
+    width: 100%;
+  }
+  .cm10-1 {
+    width: 10%;
+  }
+  .cm10-2 {
+    width: 20%;
+  }
+  .cm10-3 {
+    width: 30%;
+  }
+  .cm10-4 {
+    width: 40%;
+  }
+  .cm10-5 {
+    width: 50%;
+  }
+  .cm10-6 {
+    width: 60%;
+  }
+  .cm10-7 {
+    width: 70%;
+  }
+  .cm10-8 {
+    width: 80%;
+  }
+  .cm10-9 {
+    width: 90%;
+  }
+  .cm10-10 {
+    width: 100%;
+  }
+  .cm11-1 {
+    width: 9.09%;
+  }
+  .cm11-2 {
+    width: 18.18%;
+  }
+  .cm11-3 {
+    width: 27.27%;
+  }
+  .cm11-4 {
+    width: 36.36%;
+  }
+  .cm11-5 {
+    width: 45.45%;
+  }
+  .cm11-6 {
+    width: 54.55%;
+  }
+  .cm11-7 {
+    width: 63.64%;
+  }
+  .cm11-8 {
+    width: 72.73%;
+  }
+  .cm11-9 {
+    width: 81.82%;
+  }
+  .cm11-10 {
+    width: 90.91%;
+  }
+  .cm11-11 {
+    width: 100%;
+  }
+  .cm12-1 {
+    width: 8.33%;
+  }
+  .cm12-2 {
+    width: 16.67%;
+  }
+  .cm12-3 {
+    width: 25%;
+  }
+  .cm12-4 {
+    width: 33.33%;
+  }
+  .cm12-5 {
+    width: 41.67%;
+  }
+  .cm12-6 {
+    width: 50%;
+  }
+  .cm12-7 {
+    width: 58.33%;
+  }
+  .cm12-8 {
+    width: 66.67%;
+  }
+  .cm12-9 {
+    width: 75%;
+  }
+  .cm12-10 {
+    width: 83.33%;
+  }
+  .cm12-11 {
+    width: 91.67%;
+  }
+  .cm12-12 {
+    width: 100%;
+  }
+  .cm13-1 {
+    width: 7.69%;
+  }
+  .cm13-2 {
+    width: 15.38%;
+  }
+  .cm13-3 {
+    width: 23.08%;
+  }
+  .cm13-4 {
+    width: 30.77%;
+  }
+  .cm13-5 {
+    width: 38.46%;
+  }
+  .cm13-6 {
+    width: 46.15%;
+  }
+  .cm13-7 {
+    width: 53.85%;
+  }
+  .cm13-8 {
+    width: 61.54%;
+  }
+  .cm13-9 {
+    width: 69.23%;
+  }
+  .cm13-10 {
+    width: 76.92%;
+  }
+  .cm13-11 {
+    width: 84.62%;
+  }
+  .cm13-12 {
+    width: 92.31%;
+  }
+  .cm13-13 {
+    width: 100%;
+  }
+  .cm14-1 {
+    width: 7.14%;
+  }
+  .cm14-2 {
+    width: 14.29%;
+  }
+  .cm14-3 {
+    width: 21.43%;
+  }
+  .cm14-4 {
+    width: 28.57%;
+  }
+  .cm14-5 {
+    width: 35.71%;
+  }
+  .cm14-6 {
+    width: 42.86%;
+  }
+  .cm14-7 {
+    width: 50%;
+  }
+  .cm14-8 {
+    width: 57.14%;
+  }
+  .cm14-9 {
+    width: 64.29%;
+  }
+  .cm14-10 {
+    width: 71.43%;
+  }
+  .cm14-11 {
+    width: 78.57%;
+  }
+  .cm14-12 {
+    width: 85.71%;
+  }
+  .cm14-13 {
+    width: 92.86%;
+  }
+  .cm14-14 {
+    width: 100%;
+  }
+  .cm15-1 {
+    width: 6.67%;
+  }
+  .cm15-2 {
+    width: 13.33%;
+  }
+  .cm15-3 {
+    width: 20%;
+  }
+  .cm15-4 {
+    width: 26.67%;
+  }
+  .cm15-5 {
+    width: 33.33%;
+  }
+  .cm15-6 {
+    width: 40%;
+  }
+  .cm15-7 {
+    width: 46.67%;
+  }
+  .cm15-8 {
+    width: 53.33%;
+  }
+  .cm15-9 {
+    width: 60%;
+  }
+  .cm15-10 {
+    width: 66.67%;
+  }
+  .cm15-11 {
+    width: 73.33%;
+  }
+  .cm15-12 {
+    width: 80%;
+  }
+  .cm15-13 {
+    width: 86.67%;
+  }
+  .cm15-14 {
+    width: 93.33%;
+  }
+  .cm15-15 {
+    width: 100%;
+  }
+  .cm16-1 {
+    width: 6.25%;
+  }
+  .cm16-2 {
+    width: 12.5%;
+  }
+  .cm16-3 {
+    width: 18.75%;
+  }
+  .cm16-4 {
+    width: 25%;
+  }
+  .cm16-5 {
+    width: 31.25%;
+  }
+  .cm16-6 {
+    width: 37.5%;
+  }
+  .cm16-7 {
+    width: 43.75%;
+  }
+  .cm16-8 {
+    width: 50%;
+  }
+  .cm16-9 {
+    width: 56.25%;
+  }
+  .cm16-10 {
+    width: 62.5%;
+  }
+  .cm16-11 {
+    width: 68.75%;
+  }
+  .cm16-12 {
+    width: 75%;
+  }
+  .cm16-13 {
+    width: 81.25%;
+  }
+  .cm16-14 {
+    width: 87.5%;
+  }
+  .cm16-15 {
+    width: 93.75%;
+  }
+  .cm16-16 {
+    width: 100%;
+  }
+  .cm17-1 {
+    width: 5.88%;
+  }
+  .cm17-2 {
+    width: 11.76%;
+  }
+  .cm17-3 {
+    width: 17.65%;
+  }
+  .cm17-4 {
+    width: 23.53%;
+  }
+  .cm17-5 {
+    width: 29.41%;
+  }
+  .cm17-6 {
+    width: 35.29%;
+  }
+  .cm17-7 {
+    width: 41.18%;
+  }
+  .cm17-8 {
+    width: 47.06%;
+  }
+  .cm17-9 {
+    width: 52.94%;
+  }
+  .cm17-10 {
+    width: 58.82%;
+  }
+  .cm17-11 {
+    width: 64.71%;
+  }
+  .cm17-12 {
+    width: 70.59%;
+  }
+  .cm17-13 {
+    width: 76.47%;
+  }
+  .cm17-14 {
+    width: 82.35%;
+  }
+  .cm17-15 {
+    width: 88.24%;
+  }
+  .cm17-16 {
+    width: 94.12%;
+  }
+  .cm17-17 {
+    width: 100%;
+  }
+  .cm18-1 {
+    width: 5.56%;
+  }
+  .cm18-2 {
+    width: 11.11%;
+  }
+  .cm18-3 {
+    width: 16.67%;
+  }
+  .cm18-4 {
+    width: 22.22%;
+  }
+  .cm18-5 {
+    width: 27.78%;
+  }
+  .cm18-6 {
+    width: 33.33%;
+  }
+  .cm18-7 {
+    width: 38.89%;
+  }
+  .cm18-8 {
+    width: 44.44%;
+  }
+  .cm18-9 {
+    width: 50%;
+  }
+  .cm18-10 {
+    width: 55.56%;
+  }
+  .cm18-11 {
+    width: 61.11%;
+  }
+  .cm18-12 {
+    width: 66.67%;
+  }
+  .cm18-13 {
+    width: 72.22%;
+  }
+  .cm18-14 {
+    width: 77.78%;
+  }
+  .cm18-15 {
+    width: 83.33%;
+  }
+  .cm18-16 {
+    width: 88.89%;
+  }
+  .cm18-17 {
+    width: 94.44%;
+  }
+  .cm18-18 {
+    width: 100%;
+  }
+  .cm19-1 {
+    width: 5.26%;
+  }
+  .cm19-2 {
+    width: 10.53%;
+  }
+  .cm19-3 {
+    width: 15.79%;
+  }
+  .cm19-4 {
+    width: 21.05%;
+  }
+  .cm19-5 {
+    width: 26.32%;
+  }
+  .cm19-6 {
+    width: 31.58%;
+  }
+  .cm19-7 {
+    width: 36.84%;
+  }
+  .cm19-8 {
+    width: 42.11%;
+  }
+  .cm19-9 {
+    width: 47.37%;
+  }
+  .cm19-10 {
+    width: 52.63%;
+  }
+  .cm19-11 {
+    width: 57.89%;
+  }
+  .cm19-12 {
+    width: 63.16%;
+  }
+  .cm19-13 {
+    width: 68.42%;
+  }
+  .cm19-14 {
+    width: 73.68%;
+  }
+  .cm19-15 {
+    width: 78.95%;
+  }
+  .cm19-16 {
+    width: 84.21%;
+  }
+  .cm19-17 {
+    width: 89.47%;
+  }
+  .cm19-18 {
+    width: 94.74%;
+  }
+  .cm19-19 {
+    width: 100%;
+  }
+  .cm20-1 {
+    width: 5%;
+  }
+  .cm20-2 {
+    width: 10%;
+  }
+  .cm20-3 {
+    width: 15%;
+  }
+  .cm20-4 {
+    width: 20%;
+  }
+  .cm20-5 {
+    width: 25%;
+  }
+  .cm20-6 {
+    width: 30%;
+  }
+  .cm20-7 {
+    width: 35%;
+  }
+  .cm20-8 {
+    width: 40%;
+  }
+  .cm20-9 {
+    width: 45%;
+  }
+  .cm20-10 {
+    width: 50%;
+  }
+  .cm20-11 {
+    width: 55%;
+  }
+  .cm20-12 {
+    width: 60%;
+  }
+  .cm20-13 {
+    width: 65%;
+  }
+  .cm20-14 {
+    width: 70%;
+  }
+  .cm20-15 {
+    width: 75%;
+  }
+  .cm20-16 {
+    width: 80%;
+  }
+  .cm20-17 {
+    width: 85%;
+  }
+  .cm20-18 {
+    width: 90%;
+  }
+  .cm20-19 {
+    width: 95%;
+  }
+  .cm20-20 {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  .cs1-1 {
+    width: 100%;
+  }
+  .cs2-1 {
+    width: 50%;
+  }
+  .cs2-2 {
+    width: 100%;
+  }
+  .cs3-1 {
+    width: 33.33%;
+  }
+  .cs3-2 {
+    width: 66.67%;
+  }
+  .cs3-3 {
+    width: 100%;
+  }
+  .cs4-1 {
+    width: 25%;
+  }
+  .cs4-2 {
+    width: 50%;
+  }
+  .cs4-3 {
+    width: 75%;
+  }
+  .cs4-4 {
+    width: 100%;
+  }
+  .cs5-1 {
+    width: 20%;
+  }
+  .cs5-2 {
+    width: 40%;
+  }
+  .cs5-3 {
+    width: 60%;
+  }
+  .cs5-4 {
+    width: 80%;
+  }
+  .cs5-5 {
+    width: 100%;
+  }
+  .cs6-1 {
+    width: 16.67%;
+  }
+  .cs6-2 {
+    width: 33.33%;
+  }
+  .cs6-3 {
+    width: 50%;
+  }
+  .cs6-4 {
+    width: 66.67%;
+  }
+  .cs6-5 {
+    width: 83.33%;
+  }
+  .cs6-6 {
+    width: 100%;
+  }
+  .cs7-1 {
+    width: 14.29%;
+  }
+  .cs7-2 {
+    width: 28.57%;
+  }
+  .cs7-3 {
+    width: 42.86%;
+  }
+  .cs7-4 {
+    width: 57.14%;
+  }
+  .cs7-5 {
+    width: 71.43%;
+  }
+  .cs7-6 {
+    width: 85.71%;
+  }
+  .cs7-7 {
+    width: 100%;
+  }
+  .cs8-1 {
+    width: 12.5%;
+  }
+  .cs8-2 {
+    width: 25%;
+  }
+  .cs8-3 {
+    width: 37.5%;
+  }
+  .cs8-4 {
+    width: 50%;
+  }
+  .cs8-5 {
+    width: 62.5%;
+  }
+  .cs8-6 {
+    width: 75%;
+  }
+  .cs8-7 {
+    width: 87.5%;
+  }
+  .cs8-8 {
+    width: 100%;
+  }
+  .cs9-1 {
+    width: 11.11%;
+  }
+  .cs9-2 {
+    width: 22.22%;
+  }
+  .cs9-3 {
+    width: 33.33%;
+  }
+  .cs9-4 {
+    width: 44.44%;
+  }
+  .cs9-5 {
+    width: 55.56%;
+  }
+  .cs9-6 {
+    width: 66.67%;
+  }
+  .cs9-7 {
+    width: 77.78%;
+  }
+  .cs9-8 {
+    width: 88.89%;
+  }
+  .cs9-9 {
+    width: 100%;
+  }
+  .cs10-1 {
+    width: 10%;
+  }
+  .cs10-2 {
+    width: 20%;
+  }
+  .cs10-3 {
+    width: 30%;
+  }
+  .cs10-4 {
+    width: 40%;
+  }
+  .cs10-5 {
+    width: 50%;
+  }
+  .cs10-6 {
+    width: 60%;
+  }
+  .cs10-7 {
+    width: 70%;
+  }
+  .cs10-8 {
+    width: 80%;
+  }
+  .cs10-9 {
+    width: 90%;
+  }
+  .cs10-10 {
+    width: 100%;
+  }
+  .cs11-1 {
+    width: 9.09%;
+  }
+  .cs11-2 {
+    width: 18.18%;
+  }
+  .cs11-3 {
+    width: 27.27%;
+  }
+  .cs11-4 {
+    width: 36.36%;
+  }
+  .cs11-5 {
+    width: 45.45%;
+  }
+  .cs11-6 {
+    width: 54.55%;
+  }
+  .cs11-7 {
+    width: 63.64%;
+  }
+  .cs11-8 {
+    width: 72.73%;
+  }
+  .cs11-9 {
+    width: 81.82%;
+  }
+  .cs11-10 {
+    width: 90.91%;
+  }
+  .cs11-11 {
+    width: 100%;
+  }
+  .cs12-1 {
+    width: 8.33%;
+  }
+  .cs12-2 {
+    width: 16.67%;
+  }
+  .cs12-3 {
+    width: 25%;
+  }
+  .cs12-4 {
+    width: 33.33%;
+  }
+  .cs12-5 {
+    width: 41.67%;
+  }
+  .cs12-6 {
+    width: 50%;
+  }
+  .cs12-7 {
+    width: 58.33%;
+  }
+  .cs12-8 {
+    width: 66.67%;
+  }
+  .cs12-9 {
+    width: 75%;
+  }
+  .cs12-10 {
+    width: 83.33%;
+  }
+  .cs12-11 {
+    width: 91.67%;
+  }
+  .cs12-12 {
+    width: 100%;
+  }
+  .cs13-1 {
+    width: 7.69%;
+  }
+  .cs13-2 {
+    width: 15.38%;
+  }
+  .cs13-3 {
+    width: 23.08%;
+  }
+  .cs13-4 {
+    width: 30.77%;
+  }
+  .cs13-5 {
+    width: 38.46%;
+  }
+  .cs13-6 {
+    width: 46.15%;
+  }
+  .cs13-7 {
+    width: 53.85%;
+  }
+  .cs13-8 {
+    width: 61.54%;
+  }
+  .cs13-9 {
+    width: 69.23%;
+  }
+  .cs13-10 {
+    width: 76.92%;
+  }
+  .cs13-11 {
+    width: 84.62%;
+  }
+  .cs13-12 {
+    width: 92.31%;
+  }
+  .cs13-13 {
+    width: 100%;
+  }
+  .cs14-1 {
+    width: 7.14%;
+  }
+  .cs14-2 {
+    width: 14.29%;
+  }
+  .cs14-3 {
+    width: 21.43%;
+  }
+  .cs14-4 {
+    width: 28.57%;
+  }
+  .cs14-5 {
+    width: 35.71%;
+  }
+  .cs14-6 {
+    width: 42.86%;
+  }
+  .cs14-7 {
+    width: 50%;
+  }
+  .cs14-8 {
+    width: 57.14%;
+  }
+  .cs14-9 {
+    width: 64.29%;
+  }
+  .cs14-10 {
+    width: 71.43%;
+  }
+  .cs14-11 {
+    width: 78.57%;
+  }
+  .cs14-12 {
+    width: 85.71%;
+  }
+  .cs14-13 {
+    width: 92.86%;
+  }
+  .cs14-14 {
+    width: 100%;
+  }
+  .cs15-1 {
+    width: 6.67%;
+  }
+  .cs15-2 {
+    width: 13.33%;
+  }
+  .cs15-3 {
+    width: 20%;
+  }
+  .cs15-4 {
+    width: 26.67%;
+  }
+  .cs15-5 {
+    width: 33.33%;
+  }
+  .cs15-6 {
+    width: 40%;
+  }
+  .cs15-7 {
+    width: 46.67%;
+  }
+  .cs15-8 {
+    width: 53.33%;
+  }
+  .cs15-9 {
+    width: 60%;
+  }
+  .cs15-10 {
+    width: 66.67%;
+  }
+  .cs15-11 {
+    width: 73.33%;
+  }
+  .cs15-12 {
+    width: 80%;
+  }
+  .cs15-13 {
+    width: 86.67%;
+  }
+  .cs15-14 {
+    width: 93.33%;
+  }
+  .cs15-15 {
+    width: 100%;
+  }
+  .cs16-1 {
+    width: 6.25%;
+  }
+  .cs16-2 {
+    width: 12.5%;
+  }
+  .cs16-3 {
+    width: 18.75%;
+  }
+  .cs16-4 {
+    width: 25%;
+  }
+  .cs16-5 {
+    width: 31.25%;
+  }
+  .cs16-6 {
+    width: 37.5%;
+  }
+  .cs16-7 {
+    width: 43.75%;
+  }
+  .cs16-8 {
+    width: 50%;
+  }
+  .cs16-9 {
+    width: 56.25%;
+  }
+  .cs16-10 {
+    width: 62.5%;
+  }
+  .cs16-11 {
+    width: 68.75%;
+  }
+  .cs16-12 {
+    width: 75%;
+  }
+  .cs16-13 {
+    width: 81.25%;
+  }
+  .cs16-14 {
+    width: 87.5%;
+  }
+  .cs16-15 {
+    width: 93.75%;
+  }
+  .cs16-16 {
+    width: 100%;
+  }
+  .cs17-1 {
+    width: 5.88%;
+  }
+  .cs17-2 {
+    width: 11.76%;
+  }
+  .cs17-3 {
+    width: 17.65%;
+  }
+  .cs17-4 {
+    width: 23.53%;
+  }
+  .cs17-5 {
+    width: 29.41%;
+  }
+  .cs17-6 {
+    width: 35.29%;
+  }
+  .cs17-7 {
+    width: 41.18%;
+  }
+  .cs17-8 {
+    width: 47.06%;
+  }
+  .cs17-9 {
+    width: 52.94%;
+  }
+  .cs17-10 {
+    width: 58.82%;
+  }
+  .cs17-11 {
+    width: 64.71%;
+  }
+  .cs17-12 {
+    width: 70.59%;
+  }
+  .cs17-13 {
+    width: 76.47%;
+  }
+  .cs17-14 {
+    width: 82.35%;
+  }
+  .cs17-15 {
+    width: 88.24%;
+  }
+  .cs17-16 {
+    width: 94.12%;
+  }
+  .cs17-17 {
+    width: 100%;
+  }
+  .cs18-1 {
+    width: 5.56%;
+  }
+  .cs18-2 {
+    width: 11.11%;
+  }
+  .cs18-3 {
+    width: 16.67%;
+  }
+  .cs18-4 {
+    width: 22.22%;
+  }
+  .cs18-5 {
+    width: 27.78%;
+  }
+  .cs18-6 {
+    width: 33.33%;
+  }
+  .cs18-7 {
+    width: 38.89%;
+  }
+  .cs18-8 {
+    width: 44.44%;
+  }
+  .cs18-9 {
+    width: 50%;
+  }
+  .cs18-10 {
+    width: 55.56%;
+  }
+  .cs18-11 {
+    width: 61.11%;
+  }
+  .cs18-12 {
+    width: 66.67%;
+  }
+  .cs18-13 {
+    width: 72.22%;
+  }
+  .cs18-14 {
+    width: 77.78%;
+  }
+  .cs18-15 {
+    width: 83.33%;
+  }
+  .cs18-16 {
+    width: 88.89%;
+  }
+  .cs18-17 {
+    width: 94.44%;
+  }
+  .cs18-18 {
+    width: 100%;
+  }
+  .cs19-1 {
+    width: 5.26%;
+  }
+  .cs19-2 {
+    width: 10.53%;
+  }
+  .cs19-3 {
+    width: 15.79%;
+  }
+  .cs19-4 {
+    width: 21.05%;
+  }
+  .cs19-5 {
+    width: 26.32%;
+  }
+  .cs19-6 {
+    width: 31.58%;
+  }
+  .cs19-7 {
+    width: 36.84%;
+  }
+  .cs19-8 {
+    width: 42.11%;
+  }
+  .cs19-9 {
+    width: 47.37%;
+  }
+  .cs19-10 {
+    width: 52.63%;
+  }
+  .cs19-11 {
+    width: 57.89%;
+  }
+  .cs19-12 {
+    width: 63.16%;
+  }
+  .cs19-13 {
+    width: 68.42%;
+  }
+  .cs19-14 {
+    width: 73.68%;
+  }
+  .cs19-15 {
+    width: 78.95%;
+  }
+  .cs19-16 {
+    width: 84.21%;
+  }
+  .cs19-17 {
+    width: 89.47%;
+  }
+  .cs19-18 {
+    width: 94.74%;
+  }
+  .cs19-19 {
+    width: 100%;
+  }
+  .cs20-1 {
+    width: 5%;
+  }
+  .cs20-2 {
+    width: 10%;
+  }
+  .cs20-3 {
+    width: 15%;
+  }
+  .cs20-4 {
+    width: 20%;
+  }
+  .cs20-5 {
+    width: 25%;
+  }
+  .cs20-6 {
+    width: 30%;
+  }
+  .cs20-7 {
+    width: 35%;
+  }
+  .cs20-8 {
+    width: 40%;
+  }
+  .cs20-9 {
+    width: 45%;
+  }
+  .cs20-10 {
+    width: 50%;
+  }
+  .cs20-11 {
+    width: 55%;
+  }
+  .cs20-12 {
+    width: 60%;
+  }
+  .cs20-13 {
+    width: 65%;
+  }
+  .cs20-14 {
+    width: 70%;
+  }
+  .cs20-15 {
+    width: 75%;
+  }
+  .cs20-16 {
+    width: 80%;
+  }
+  .cs20-17 {
+    width: 85%;
+  }
+  .cs20-18 {
+    width: 90%;
+  }
+  .cs20-19 {
+    width: 95%;
+  }
+  .cs20-20 {
+    width: 100%;
+  }
+}
+.c1-1 {
+  width: 100%;
+}
+.c2-1 {
+  width: 50%;
+}
+.c2-2 {
+  width: 100%;
+}
+.c3-1 {
+  width: 33.33%;
+}
+.c3-2 {
+  width: 66.67%;
+}
+.c3-3 {
+  width: 100%;
+}
+.c4-1 {
+  width: 25%;
+}
+.c4-2 {
+  width: 50%;
+}
+.c4-3 {
+  width: 75%;
+}
+.c4-4 {
+  width: 100%;
+}
+.c5-1 {
+  width: 20%;
+}
+.c5-2 {
+  width: 40%;
+}
+.c5-3 {
+  width: 60%;
+}
+.c5-4 {
+  width: 80%;
+}
+.c5-5 {
+  width: 100%;
+}
+.c6-1 {
+  width: 16.67%;
+}
+.c6-2 {
+  width: 33.33%;
+}
+.c6-3 {
+  width: 50%;
+}
+.c6-4 {
+  width: 66.67%;
+}
+.c6-5 {
+  width: 83.33%;
+}
+.c6-6 {
+  width: 100%;
+}
+.c7-1 {
+  width: 14.29%;
+}
+.c7-2 {
+  width: 28.57%;
+}
+.c7-3 {
+  width: 42.86%;
+}
+.c7-4 {
+  width: 57.14%;
+}
+.c7-5 {
+  width: 71.43%;
+}
+.c7-6 {
+  width: 85.71%;
+}
+.c7-7 {
+  width: 100%;
+}
+.c8-1 {
+  width: 12.5%;
+}
+.c8-2 {
+  width: 25%;
+}
+.c8-3 {
+  width: 37.5%;
+}
+.c8-4 {
+  width: 50%;
+}
+.c8-5 {
+  width: 62.5%;
+}
+.c8-6 {
+  width: 75%;
+}
+.c8-7 {
+  width: 87.5%;
+}
+.c8-8 {
+  width: 100%;
+}
+.c9-1 {
+  width: 11.11%;
+}
+.c9-2 {
+  width: 22.22%;
+}
+.c9-3 {
+  width: 33.33%;
+}
+.c9-4 {
+  width: 44.44%;
+}
+.c9-5 {
+  width: 55.56%;
+}
+.c9-6 {
+  width: 66.67%;
+}
+.c9-7 {
+  width: 77.78%;
+}
+.c9-8 {
+  width: 88.89%;
+}
+.c9-9 {
+  width: 100%;
+}
+.c10-1 {
+  width: 10%;
+}
+.c10-2 {
+  width: 20%;
+}
+.c10-3 {
+  width: 30%;
+}
+.c10-4 {
+  width: 40%;
+}
+.c10-5 {
+  width: 50%;
+}
+.c10-6 {
+  width: 60%;
+}
+.c10-7 {
+  width: 70%;
+}
+.c10-8 {
+  width: 80%;
+}
+.c10-9 {
+  width: 90%;
+}
+.c10-10 {
+  width: 100%;
+}
+.c11-1 {
+  width: 9.09%;
+}
+.c11-2 {
+  width: 18.18%;
+}
+.c11-3 {
+  width: 27.27%;
+}
+.c11-4 {
+  width: 36.36%;
+}
+.c11-5 {
+  width: 45.45%;
+}
+.c11-6 {
+  width: 54.55%;
+}
+.c11-7 {
+  width: 63.64%;
+}
+.c11-8 {
+  width: 72.73%;
+}
+.c11-9 {
+  width: 81.82%;
+}
+.c11-10 {
+  width: 90.91%;
+}
+.c11-11 {
+  width: 100%;
+}
+.c12-1 {
+  width: 8.33%;
+}
+.c12-2 {
+  width: 16.67%;
+}
+.c12-3 {
+  width: 25%;
+}
+.c12-4 {
+  width: 33.33%;
+}
+.c12-5 {
+  width: 41.67%;
+}
+.c12-6 {
+  width: 50%;
+}
+.c12-7 {
+  width: 58.33%;
+}
+.c12-8 {
+  width: 66.67%;
+}
+.c12-9 {
+  width: 75%;
+}
+.c12-10 {
+  width: 83.33%;
+}
+.c12-11 {
+  width: 91.67%;
+}
+.c12-12 {
+  width: 100%;
+}
+.c13-1 {
+  width: 7.69%;
+}
+.c13-2 {
+  width: 15.38%;
+}
+.c13-3 {
+  width: 23.08%;
+}
+.c13-4 {
+  width: 30.77%;
+}
+.c13-5 {
+  width: 38.46%;
+}
+.c13-6 {
+  width: 46.15%;
+}
+.c13-7 {
+  width: 53.85%;
+}
+.c13-8 {
+  width: 61.54%;
+}
+.c13-9 {
+  width: 69.23%;
+}
+.c13-10 {
+  width: 76.92%;
+}
+.c13-11 {
+  width: 84.62%;
+}
+.c13-12 {
+  width: 92.31%;
+}
+.c13-13 {
+  width: 100%;
+}
+.c14-1 {
+  width: 7.14%;
+}
+.c14-2 {
+  width: 14.29%;
+}
+.c14-3 {
+  width: 21.43%;
+}
+.c14-4 {
+  width: 28.57%;
+}
+.c14-5 {
+  width: 35.71%;
+}
+.c14-6 {
+  width: 42.86%;
+}
+.c14-7 {
+  width: 50%;
+}
+.c14-8 {
+  width: 57.14%;
+}
+.c14-9 {
+  width: 64.29%;
+}
+.c14-10 {
+  width: 71.43%;
+}
+.c14-11 {
+  width: 78.57%;
+}
+.c14-12 {
+  width: 85.71%;
+}
+.c14-13 {
+  width: 92.86%;
+}
+.c14-14 {
+  width: 100%;
+}
+.c15-1 {
+  width: 6.67%;
+}
+.c15-2 {
+  width: 13.33%;
+}
+.c15-3 {
+  width: 20%;
+}
+.c15-4 {
+  width: 26.67%;
+}
+.c15-5 {
+  width: 33.33%;
+}
+.c15-6 {
+  width: 40%;
+}
+.c15-7 {
+  width: 46.67%;
+}
+.c15-8 {
+  width: 53.33%;
+}
+.c15-9 {
+  width: 60%;
+}
+.c15-10 {
+  width: 66.67%;
+}
+.c15-11 {
+  width: 73.33%;
+}
+.c15-12 {
+  width: 80%;
+}
+.c15-13 {
+  width: 86.67%;
+}
+.c15-14 {
+  width: 93.33%;
+}
+.c15-15 {
+  width: 100%;
+}
+.c16-1 {
+  width: 6.25%;
+}
+.c16-2 {
+  width: 12.5%;
+}
+.c16-3 {
+  width: 18.75%;
+}
+.c16-4 {
+  width: 25%;
+}
+.c16-5 {
+  width: 31.25%;
+}
+.c16-6 {
+  width: 37.5%;
+}
+.c16-7 {
+  width: 43.75%;
+}
+.c16-8 {
+  width: 50%;
+}
+.c16-9 {
+  width: 56.25%;
+}
+.c16-10 {
+  width: 62.5%;
+}
+.c16-11 {
+  width: 68.75%;
+}
+.c16-12 {
+  width: 75%;
+}
+.c16-13 {
+  width: 81.25%;
+}
+.c16-14 {
+  width: 87.5%;
+}
+.c16-15 {
+  width: 93.75%;
+}
+.c16-16 {
+  width: 100%;
+}
+.c17-1 {
+  width: 5.88%;
+}
+.c17-2 {
+  width: 11.76%;
+}
+.c17-3 {
+  width: 17.65%;
+}
+.c17-4 {
+  width: 23.53%;
+}
+.c17-5 {
+  width: 29.41%;
+}
+.c17-6 {
+  width: 35.29%;
+}
+.c17-7 {
+  width: 41.18%;
+}
+.c17-8 {
+  width: 47.06%;
+}
+.c17-9 {
+  width: 52.94%;
+}
+.c17-10 {
+  width: 58.82%;
+}
+.c17-11 {
+  width: 64.71%;
+}
+.c17-12 {
+  width: 70.59%;
+}
+.c17-13 {
+  width: 76.47%;
+}
+.c17-14 {
+  width: 82.35%;
+}
+.c17-15 {
+  width: 88.24%;
+}
+.c17-16 {
+  width: 94.12%;
+}
+.c17-17 {
+  width: 100%;
+}
+.c18-1 {
+  width: 5.56%;
+}
+.c18-2 {
+  width: 11.11%;
+}
+.c18-3 {
+  width: 16.67%;
+}
+.c18-4 {
+  width: 22.22%;
+}
+.c18-5 {
+  width: 27.78%;
+}
+.c18-6 {
+  width: 33.33%;
+}
+.c18-7 {
+  width: 38.89%;
+}
+.c18-8 {
+  width: 44.44%;
+}
+.c18-9 {
+  width: 50%;
+}
+.c18-10 {
+  width: 55.56%;
+}
+.c18-11 {
+  width: 61.11%;
+}
+.c18-12 {
+  width: 66.67%;
+}
+.c18-13 {
+  width: 72.22%;
+}
+.c18-14 {
+  width: 77.78%;
+}
+.c18-15 {
+  width: 83.33%;
+}
+.c18-16 {
+  width: 88.89%;
+}
+.c18-17 {
+  width: 94.44%;
+}
+.c18-18 {
+  width: 100%;
+}
+.c19-1 {
+  width: 5.26%;
+}
+.c19-2 {
+  width: 10.53%;
+}
+.c19-3 {
+  width: 15.79%;
+}
+.c19-4 {
+  width: 21.05%;
+}
+.c19-5 {
+  width: 26.32%;
+}
+.c19-6 {
+  width: 31.58%;
+}
+.c19-7 {
+  width: 36.84%;
+}
+.c19-8 {
+  width: 42.11%;
+}
+.c19-9 {
+  width: 47.37%;
+}
+.c19-10 {
+  width: 52.63%;
+}
+.c19-11 {
+  width: 57.89%;
+}
+.c19-12 {
+  width: 63.16%;
+}
+.c19-13 {
+  width: 68.42%;
+}
+.c19-14 {
+  width: 73.68%;
+}
+.c19-15 {
+  width: 78.95%;
+}
+.c19-16 {
+  width: 84.21%;
+}
+.c19-17 {
+  width: 89.47%;
+}
+.c19-18 {
+  width: 94.74%;
+}
+.c19-19 {
+  width: 100%;
+}
+.c20-1 {
+  width: 5%;
+}
+.c20-2 {
+  width: 10%;
+}
+.c20-3 {
+  width: 15%;
+}
+.c20-4 {
+  width: 20%;
+}
+.c20-5 {
+  width: 25%;
+}
+.c20-6 {
+  width: 30%;
+}
+.c20-7 {
+  width: 35%;
+}
+.c20-8 {
+  width: 40%;
+}
+.c20-9 {
+  width: 45%;
+}
+.c20-10 {
+  width: 50%;
+}
+.c20-11 {
+  width: 55%;
+}
+.c20-12 {
+  width: 60%;
+}
+.c20-13 {
+  width: 65%;
+}
+.c20-14 {
+  width: 70%;
+}
+.c20-15 {
+  width: 75%;
+}
+.c20-16 {
+  width: 80%;
+}
+.c20-17 {
+  width: 85%;
+}
+.c20-18 {
+  width: 90%;
+}
+.c20-19 {
+  width: 95%;
+}
+.c20-20 {
+  width: 100%;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+.reset {
+  padding: 0;
+  margin: 0;
+}
+.block {
+  display: block;
+}
+.relative {
+  position: relative;
+}
+.container-display {
+  position: relative;
+}
+.float-l {
+  float: left;
+}
+.float-r {
+  float: right;
+}
+.float-none {
+  float: none !important;
+}
+.nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.nav ul li a {
+  text-decoration: none;
+  text-align: center;
+  display: block;
+}
+.container {
+  width: 100%;
+}
+.centered-h {
+  float:none !important;
+  margin: 0 auto;
+}
+.centered-v {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.centered {
+  float: none !important;
+  margin: 0 auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.display-m {
+  position: absolute;
+  left: 0;
+  bottom: 50%;
+  width: 100%;
+  text-align: center;
+}
+.display-t-l {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.display-t-r {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.display-b-l {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.display-b-r {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.display-t-m {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+.display-b-m {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.img-responsive {
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 768px) {
+  .hide-small {
+    display: none;
+  }
+}
+@media (max-width: 1024px) and (min-width: 769px) {
+  .hide-medium {
+    display: none;
+  }
+}
+@media (min-width: 1025px) {
+  .hide-large {
+    display: none;
+  }
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 20px;
+}
+h5 {
+  font-size: 18px;
+}
+h6 {
+  font-size: 16px;
+}
+.t-1 {
+  font-size: 1px;
+}
+.t-2 {
+  font-size: 2px;
+}
+.t-3 {
+  font-size: 3px;
+}
+.t-4 {
+  font-size: 4px;
+}
+.t-5 {
+  font-size: 5px;
+}
+.t-6 {
+  font-size: 6px;
+}
+.t-7 {
+  font-size: 7px;
+}
+.t-8 {
+  font-size: 8px;
+}
+.t-9 {
+  font-size: 9px;
+}
+.t-10 {
+  font-size: 10px;
+}
+.t-11 {
+  font-size: 11px;
+}
+.t-12 {
+  font-size: 12px;
+}
+.t-13 {
+  font-size: 13px;
+}
+.t-14 {
+  font-size: 14px;
+}
+.t-15 {
+  font-size: 15px;
+}
+.t-16 {
+  font-size: 16px;
+}
+.t-18 {
+  font-size: 18px;
+}
+.t-20 {
+  font-size: 20px;
+}
+.t-24 {
+  font-size: 24px;
+}
+.t-28 {
+  font-size: 28px;
+}
+.t-32 {
+  font-size: 32px;
+}
+.t-36 {
+  font-size: 36px;
+}
+.t-40 {
+  font-size: 40px;
+}
+.t-48 {
+  font-size: 48px;
+}
+.t-56 {
+  font-size: 56px;
+}
+.t-64 {
+  font-size: 64px;
+}
+.t-72 {
+  font-size: 72px;
+}
+.t-80 {
+  font-size: 80px;
+}
+.t-2x {
+  font-size: 200%;
+}
+.t-3x {
+  font-size: 300%;
+}
+.t-4x {
+  font-size: 400%;
+}
+.t-5x {
+  font-size: 500%;
+}
+.t-left {
+  text-align: left;
+}
+.t-center {
+  text-align: center;
+}
+.t-right {
+  text-align: right;
+}
+.bold {
+  font-weight: bold;
+}
+.pd0 {
+  padding: 0px;
+}
+.pd1 {
+  padding: 1px;
+}
+.pd2 {
+  padding: 2px;
+}
+.pd3 {
+  padding: 3px;
+}
+.pd4 {
+  padding: 4px;
+}
+.pd5 {
+  padding: 5px;
+}
+.pd6 {
+  padding: 6px;
+}
+.pd7 {
+  padding: 7px;
+}
+.pd8 {
+  padding: 8px;
+}
+.pd9 {
+  padding: 9px;
+}
+.pd10 {
+  padding: 10px;
+}
+.pd11 {
+  padding: 11px;
+}
+.pd12 {
+  padding: 12px;
+}
+.pd13 {
+  padding: 13px;
+}
+.pd14 {
+  padding: 14px;
+}
+.pd15 {
+  padding: 15px;
+}
+.pd16 {
+  padding: 16px;
+}
+.pd17 {
+  padding: 17px;
+}
+.pd18 {
+  padding: 18px;
+}
+.pd19 {
+  padding: 19px;
+}
+.pd20 {
+  padding: 20px;
+}
+.pd30 {
+  padding: 30px;
+}
+.pd40 {
+  padding: 40px;
+}
+.pd50 {
+  padding: 50px;
+}
+.pd0-t {
+  padding-top: 0px;
+}
+.pd1-t {
+  padding-top: 1px;
+}
+.pd2-t {
+  padding-top: 2px;
+}
+.pd3-t {
+  padding-top: 3px;
+}
+.pd4-t {
+  padding-top: 4px;
+}
+.pd5-t {
+  padding-top: 5px;
+}
+.pd6-t {
+  padding-top: 6px;
+}
+.pd7-t {
+  padding-top: 7px;
+}
+.pd8-t {
+  padding-top: 8px;
+}
+.pd9-t {
+  padding-top: 9px;
+}
+.pd10-t {
+  padding-top: 10px;
+}
+.pd11-t {
+  padding-top: 11px;
+}
+.pd12-t {
+  padding-top: 12px;
+}
+.pd13-t {
+  padding-top: 13px;
+}
+.pd14-t {
+  padding-top: 14px;
+}
+.pd15-t {
+  padding-top: 15px;
+}
+.pd16-t {
+  padding-top: 16px;
+}
+.pd17-t {
+  padding-top: 17px;
+}
+.pd18-t {
+  padding-top: 18px;
+}
+.pd19-t {
+  padding-top: 19px;
+}
+.pd20-t {
+  padding-top: 20px;
+}
+.pd30-t {
+  padding-top: 30px;
+}
+.pd40-t {
+  padding-top: 40px;
+}
+.pd50-t {
+  padding-top: 50px;
+}
+.pd0-r {
+  padding-right: 0px;
+}
+.pd1-r {
+  padding-right: 1px;
+}
+.pd2-r {
+  padding-right: 2px;
+}
+.pd3-r {
+  padding-right: 3px;
+}
+.pd4-r {
+  padding-right: 4px;
+}
+.pd5-r {
+  padding-right: 5px;
+}
+.pd6-r {
+  padding-right: 6px;
+}
+.pd7-r {
+  padding-right: 7px;
+}
+.pd8-r {
+  padding-right: 8px;
+}
+.pd9-r {
+  padding-right: 9px;
+}
+.pd10-r {
+  padding-right: 10px;
+}
+.pd11-r {
+  padding-right: 11px;
+}
+.pd12-r {
+  padding-right: 12px;
+}
+.pd13-r {
+  padding-right: 13px;
+}
+.pd14-r {
+  padding-right: 14px;
+}
+.pd15-r {
+  padding-right: 15px;
+}
+.pd16-r {
+  padding-right: 16px;
+}
+.pd17-r {
+  padding-right: 17px;
+}
+.pd18-r {
+  padding-right: 18px;
+}
+.pd19-r {
+  padding-right: 19px;
+}
+.pd20-r {
+  padding-right: 20px;
+}
+.pd30-r {
+  padding-right: 30px;
+}
+.pd40-r {
+  padding-right: 40px;
+}
+.pd50-r {
+  padding-right: 50px;
+}
+.pd0-b {
+  padding-bottom: 0px;
+}
+.pd1-b {
+  padding-bottom: 1px;
+}
+.pd2-b {
+  padding-bottom: 2px;
+}
+.pd3-b {
+  padding-bottom: 3px;
+}
+.pd4-b {
+  padding-bottom: 4px;
+}
+.pd5-b {
+  padding-bottom: 5px;
+}
+.pd6-b {
+  padding-bottom: 6px;
+}
+.pd7-b {
+  padding-bottom: 7px;
+}
+.pd8-b {
+  padding-bottom: 8px;
+}
+.pd9-b {
+  padding-bottom: 9px;
+}
+.pd10-b {
+  padding-bottom: 10px;
+}
+.pd11-b {
+  padding-bottom: 11px;
+}
+.pd12-b {
+  padding-bottom: 12px;
+}
+.pd13-b {
+  padding-bottom: 13px;
+}
+.pd14-b {
+  padding-bottom: 14px;
+}
+.pd15-b {
+  padding-bottom: 15px;
+}
+.pd16-b {
+  padding-bottom: 16px;
+}
+.pd17-b {
+  padding-bottom: 17px;
+}
+.pd18-b {
+  padding-bottom: 18px;
+}
+.pd19-b {
+  padding-bottom: 19px;
+}
+.pd20-b {
+  padding-bottom: 20px;
+}
+.pd30-b {
+  padding-bottom: 30px;
+}
+.pd40-b {
+  padding-bottom: 40px;
+}
+.pd50-b {
+  padding-bottom: 50px;
+}
+.pd1-0 {
+  padding-left: 0px;
+}
+.pd1-l {
+  padding-left: 1px;
+}
+.pd2-l {
+  padding-left: 2px;
+}
+.pd3-l {
+  padding-left: 3px;
+}
+.pd4-l {
+  padding-left: 4px;
+}
+.pd5-l {
+  padding-left: 5px;
+}
+.pd6-l {
+  padding-left: 6px;
+}
+.pd7-l {
+  padding-left: 7px;
+}
+.pd8-l {
+  padding-left: 8px;
+}
+.pd9-l {
+  padding-left: 9px;
+}
+.pd10-l {
+  padding-left: 10px;
+}
+.pd11-l {
+  padding-left: 11px;
+}
+.pd12-l {
+  padding-left: 12px;
+}
+.pd13-l {
+  padding-left: 13px;
+}
+.pd14-l {
+  padding-left: 14px;
+}
+.pd15-l {
+  padding-left: 15px;
+}
+.pd16-l {
+  padding-left: 16px;
+}
+.pd17-l {
+  padding-left: 17px;
+}
+.pd18-l {
+  padding-left: 18px;
+}
+.pd19-l {
+  padding-left: 19px;
+}
+.pd20-l {
+  padding-left: 20px;
+}
+.pd30-l {
+  padding-left: 30px;
+}
+.pd40-l {
+  padding-left: 40px;
+}
+.pd50-l {
+  padding-left: 50px;
+}
+.mg0 {
+  margin: 0px;
+}
+.mg1 {
+  margin: 1px;
+}
+.mg2 {
+  margin: 2px;
+}
+.mg3 {
+  margin: 3px;
+}
+.mg4 {
+  margin: 4px;
+}
+.mg5 {
+  margin: 5px;
+}
+.mg6 {
+  margin: 6px;
+}
+.mg7 {
+  margin: 7px;
+}
+.mg8 {
+  margin: 8px;
+}
+.mg9 {
+  margin: 9px;
+}
+.mg10 {
+  margin: 10px;
+}
+.mg11 {
+  margin: 11px;
+}
+.mg12 {
+  margin: 12px;
+}
+.mg13 {
+  margin: 13px;
+}
+.mg14 {
+  margin: 14px;
+}
+.mg15 {
+  margin: 15px;
+}
+.mg16 {
+  margin: 16px;
+}
+.mg17 {
+  margin: 17px;
+}
+.mg18 {
+  margin: 18px;
+}
+.mg19 {
+  margin: 19px;
+}
+.mg20 {
+  margin: 20px;
+}
+.mg30 {
+  margin: 30px;
+}
+.mg40 {
+  margin: 40px;
+}
+.mg50 {
+  margin: 50px;
+}
+.mg0-t {
+  margin-top: 0px;
+}
+.mg1-t {
+  margin-top: 1px;
+}
+.mg2-t {
+  margin-top: 2px;
+}
+.mg3-t {
+  margin-top: 3px;
+}
+.mg4-t {
+  margin-top: 4px;
+}
+.mg5-t {
+  margin-top: 5px;
+}
+.mg6-t {
+  margin-top: 6px;
+}
+.mg7-t {
+  margin-top: 7px;
+}
+.mg8-t {
+  margin-top: 8px;
+}
+.mg9-t {
+  margin-top: 9px;
+}
+.mg10-t {
+  margin-top: 10px;
+}
+.mg11-t {
+  margin-top: 11px;
+}
+.mg12-t {
+  margin-top: 12px;
+}
+.mg13-t {
+  margin-top: 13px;
+}
+.mg14-t {
+  margin-top: 14px;
+}
+.mg15-t {
+  margin-top: 15px;
+}
+.mg16-t {
+  margin-top: 16px;
+}
+.mg17-t {
+  margin-top: 17px;
+}
+.mg18-t {
+  margin-top: 18px;
+}
+.mg19-t {
+  margin-top: 19px;
+}
+.mg20-t {
+  margin-top: 20px;
+}
+.mg30-t {
+  margin-top: 30px;
+}
+.mg40-t {
+  margin-top: 40px;
+}
+.mg50-t {
+  margin-top: 50px;
+}
+.mg0-r {
+  margin-right: 0px;
+}
+.mg1-r {
+  margin-right: 1px;
+}
+.mg2-r {
+  margin-right: 2px;
+}
+.mg3-r {
+  margin-right: 3px;
+}
+.mg4-r {
+  margin-right: 4px;
+}
+.mg5-r {
+  margin-right: 5px;
+}
+.mg6-r {
+  margin-right: 6px;
+}
+.mg7-r {
+  margin-right: 7px;
+}
+.mg8-r {
+  margin-right: 8px;
+}
+.mg9-r {
+  margin-right: 9px;
+}
+.mg10-r {
+  margin-right: 10px;
+}
+.mg11-r {
+  margin-right: 11px;
+}
+.mg12-r {
+  margin-right: 12px;
+}
+.mg13-r {
+  margin-right: 13px;
+}
+.mg14-r {
+  margin-right: 14px;
+}
+.mg15-r {
+  margin-right: 15px;
+}
+.mg16-r {
+  margin-right: 16px;
+}
+.mg17-r {
+  margin-right: 17px;
+}
+.mg18-r {
+  margin-right: 18px;
+}
+.mg19-r {
+  margin-right: 19px;
+}
+.mg20-r {
+  margin-right: 20px;
+}
+.mg30-r {
+  margin-right: 30px;
+}
+.mg40-r {
+  margin-right: 40px;
+}
+.mg50-r {
+  margin-right: 50px;
+}
+.mg0-b {
+  margin-bottom: 0px;
+}
+.mg1-b {
+  margin-bottom: 1px;
+}
+.mg2-b {
+  margin-bottom: 2px;
+}
+.mg3-b {
+  margin-bottom: 3px;
+}
+.mg4-b {
+  margin-bottom: 4px;
+}
+.mg5-b {
+  margin-bottom: 5px;
+}
+.mg6-b {
+  margin-bottom: 6px;
+}
+.mg7-b {
+  margin-bottom: 7px;
+}
+.mg8-b {
+  margin-bottom: 8px;
+}
+.mg9-b {
+  margin-bottom: 9px;
+}
+.mg10-b {
+  margin-bottom: 10px;
+}
+.mg11-b {
+  margin-bottom: 11px;
+}
+.mg12-b {
+  margin-bottom: 12px;
+}
+.mg13-b {
+  margin-bottom: 13px;
+}
+.mg14-b {
+  margin-bottom: 14px;
+}
+.mg15-b {
+  margin-bottom: 15px;
+}
+.mg16-b {
+  margin-bottom: 16px;
+}
+.mg17-b {
+  margin-bottom: 17px;
+}
+.mg18-b {
+  margin-bottom: 18px;
+}
+.mg19-b {
+  margin-bottom: 19px;
+}
+.mg20-b {
+  margin-bottom: 20px;
+}
+.mg30-b {
+  margin-bottom: 30px;
+}
+.mg40-b {
+  margin-bottom: 40px;
+}
+.mg50-b {
+  margin-bottom: 50px;
+}
+.mg0-l {
+  margin-left: 0px;
+}
+.mg1-l {
+  margin-left: 1px;
+}
+.mg2-l {
+  margin-left: 2px;
+}
+.mg3-l {
+  margin-left: 3px;
+}
+.mg4-l {
+  margin-left: 4px;
+}
+.mg5-l {
+  margin-left: 5px;
+}
+.mg6-l {
+  margin-left: 6px;
+}
+.mg7-l {
+  margin-left: 7px;
+}
+.mg8-l {
+  margin-left: 8px;
+}
+.mg9-l {
+  margin-left: 9px;
+}
+.mg10-l {
+  margin-left: 10px;
+}
+.mg11-l {
+  margin-left: 11px;
+}
+.mg12-l {
+  margin-left: 12px;
+}
+.mg13-l {
+  margin-left: 13px;
+}
+.mg14-l {
+  margin-left: 14px;
+}
+.mg15-l {
+  margin-left: 15px;
+}
+.mg16-l {
+  margin-left: 16px;
+}
+.mg17-l {
+  margin-left: 17px;
+}
+.mg18-l {
+  margin-left: 18px;
+}
+.mg19-l {
+  margin-left: 19px;
+}
+.mg20-l {
+  margin-left: 20px;
+}
+.mg30-l {
+  margin-left: 30px;
+}
+.mg40-l {
+  margin-left: 40px;
+}
+.mg50-l {
+  margin-left: 50px;
+}
+.round-1 {
+  border-radius: 1px;
+}
+.round-2 {
+  border-radius: 2px;
+}
+.round-3 {
+  border-radius: 3px;
+}
+.round-4 {
+  border-radius: 4px;
+}
+.round-5 {
+  border-radius: 5px;
+}
+.round-6 {
+  border-radius: 6px;
+}
+.round-7 {
+  border-radius: 7px;
+}
+.round-8 {
+  border-radius: 8px;
+}
+.round-9 {
+  border-radius: 9px;
+}
+.round-10 {
+  border-radius: 10px;
+}
+.round-15 {
+  border-radius: 15px;
+}
+.round-20 {
+  border-radius: 20px;
+}
+.round-t1 {
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+}
+.round-t2 {
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+}
+.round-t3 {
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.round-t4 {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+.round-t5 {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.round-t6 {
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+.round-t7 {
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
+.round-t8 {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.round-t9 {
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+}
+.round-t10 {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.round-t15 {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.round-t20 {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.round-b1 {
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
+}
+.round-b2 {
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+.round-b3 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.round-b4 {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.round-b5 {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.round-b6 {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+.round-b7 {
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+.round-b8 {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.round-b9 {
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+}
+.round-b10 {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.round-b15 {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+.round-b20 {
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.circle {
+  border-radius: 50%;
+}
+.b-no {
+  border: none;
+}
+.b-default {
+  border: 1px solid #c0c0c0;
+}
+.b-l-def {
+  border-left: 1px solid;
+}
+.b-r-def {
+  border-right: 1px solid;
+}
+.b-t-def {
+  border-top: 1px solid;
+}
+.b-b-def {
+  border-bottom: 1px solid;
+}
+.b-all {
+  border: 1px solid;
+}
+.b-l {
+  border-left: 1px solid;
+}
+.b-r {
+  border-right: 1px solid;
+}
+.b-t {
+  border-top: 1px solid;
+}
+.b-b {
+  border-bottom: 1px solid;
+}
+.b-1 {
+  border-width: 1px;
+}
+.b-2 {
+  border-width: 2px;
+}
+.b-3 {
+  border-width: 3px;
+}
+.b-4 {
+  border-width: 4px;
+}
+.b-5 {
+  border-width: 5px;
+}
+.b-6 {
+  border-width: 6px;
+}
+.b-7 {
+  border-width: 7px;
+}
+.b-8 {
+  border-width: 8px;
+}
+.b-9 {
+  border-width: 9px;
+}
+.b-10 {
+  border-width: 10px;
+}
+.b-11 {
+  border-width: 11px;
+}
+.b-12 {
+  border-width: 12px;
+}
+.b-13 {
+  border-width: 13px;
+}
+.b-14 {
+  border-width: 14px;
+}
+.b-15 {
+  border-width: 15px;
+}
+.b-16 {
+  border-width: 16px;
+}
+.b-17 {
+  border-width: 17px;
+}
+.b-18 {
+  border-width: 18px;
+}
+.b-19 {
+  border-width: 19px;
+}
+.b-20 {
+  border-width: 20px;
+}
+.b-t1 {
+  border-top: solid;
+  border-top-width: 1px;
+}
+.b-t2 {
+  border-top: solid;
+  border-top-width: 2px;
+}
+.b-t3 {
+  border-top: solid;
+  border-top-width: 3px;
+}
+.b-t4 {
+  border-top: solid;
+  border-top-width: 4px;
+}
+.b-t5 {
+  border-top: solid;
+  border-top-width: 5px;
+}
+.b-t6 {
+  border-top: solid;
+  border-top-width: 6px;
+}
+.b-t7 {
+  border-top: solid;
+  border-top-width: 7px;
+}
+.b-t8 {
+  border-top: solid;
+  border-top-width: 8px;
+}
+.b-t9 {
+  border-top: solid;
+  border-top-width: 9px;
+}
+.b-t10 {
+  border-top: solid;
+  border-top-width: 10px;
+}
+.b-t11 {
+  border-top: solid;
+  border-top-width: 11px;
+}
+.b-t12 {
+  border-top: solid;
+  border-top-width: 12px;
+}
+.b-t13 {
+  border-top: solid;
+  border-top-width: 13px;
+}
+.b-t14 {
+  border-top: solid;
+  border-top-width: 14px;
+}
+.b-t15 {
+  border-top: solid;
+  border-top-width: 15px;
+}
+.b-t16 {
+  border-top: solid;
+  border-top-width: 16px;
+}
+.b-t17 {
+  border-top: solid;
+  border-top-width: 17px;
+}
+.b-t18 {
+  border-top: solid;
+  border-top-width: 18px;
+}
+.b-t19 {
+  border-top: solid;
+  border-top-width: 19px;
+}
+.b-t20 {
+  border-top: solid;
+  border-top-width: 20px;
+}
+.b-r1 {
+  border-right: solid;
+  border-right-width: 1px;
+}
+.b-r2 {
+  border-right: solid;
+  border-right-width: 2px;
+}
+.b-r3 {
+  border-right: solid;
+  border-right-width: 3px;
+}
+.b-r4 {
+  border-right: solid;
+  border-right-width: 4px;
+}
+.b-r5 {
+  border-right: solid;
+  border-right-width: 5px;
+}
+.b-r6 {
+  border-right: solid;
+  border-right-width: 6px;
+}
+.b-r7 {
+  border-right: solid;
+  border-right-width: 7px;
+}
+.b-r8 {
+  border-right: solid;
+  border-right-width: 8px;
+}
+.b-r9 {
+  border-right: solid;
+  border-right-width: 9px;
+}
+.b-r10 {
+  border-right: solid;
+  border-right-width: 10px;
+}
+.b-r11 {
+  border-right: solid;
+  border-right-width: 11px;
+}
+.b-r12 {
+  border-right: solid;
+  border-right-width: 12px;
+}
+.b-r13 {
+  border-right: solid;
+  border-right-width: 13px;
+}
+.b-r14 {
+  border-right: solid;
+  border-right-width: 14px;
+}
+.b-r15 {
+  border-right: solid;
+  border-right-width: 15px;
+}
+.b-r16 {
+  border-right: solid;
+  border-right-width: 16px;
+}
+.b-r17 {
+  border-right: solid;
+  border-right-width: 17px;
+}
+.b-r18 {
+  border-right: solid;
+  border-right-width: 18px;
+}
+.b-r19 {
+  border-right: solid;
+  border-right-width: 19px;
+}
+.b-r20 {
+  border-right: solid;
+  border-right-width: 20px;
+}
+.b-b1 {
+  border-bottom: solid;
+  border-bottom-width: 1px;
+}
+.b-b2 {
+  border-bottom: solid;
+  border-bottom-width: 2px;
+}
+.b-b3 {
+  border-bottom: solid;
+  border-bottom-width: 3px;
+}
+.b-b4 {
+  border-bottom: solid;
+  border-bottom-width: 4px;
+}
+.b-b5 {
+  border-bottom: solid;
+  border-bottom-width: 5px;
+}
+.b-b6 {
+  border-bottom: solid;
+  border-bottom-width: 6px;
+}
+.b-b7 {
+  border-bottom: solid;
+  border-bottom-width: 7px;
+}
+.b-b8 {
+  border-bottom: solid;
+  border-bottom-width: 8px;
+}
+.b-b9 {
+  border-bottom: solid;
+  border-bottom-width: 9px;
+}
+.b-b10 {
+  border-bottom: solid;
+  border-bottom-width: 10px;
+}
+.b-b11 {
+  border-bottom: solid;
+  border-bottom-width: 11px;
+}
+.b-b12 {
+  border-bottom: solid;
+  border-bottom-width: 12px;
+}
+.b-b13 {
+  border-bottom: solid;
+  border-bottom-width: 13px;
+}
+.b-b14 {
+  border-bottom: solid;
+  border-bottom-width: 14px;
+}
+.b-b15 {
+  border-bottom: solid;
+  border-bottom-width: 15px;
+}
+.b-b16 {
+  border-bottom: solid;
+  border-bottom-width: 16px;
+}
+.b-b17 {
+  border-bottom: solid;
+  border-bottom-width: 17px;
+}
+.b-b18 {
+  border-bottom: solid;
+  border-bottom-width: 18px;
+}
+.b-b19 {
+  border-bottom: solid;
+  border-bottom-width: 19px;
+}
+.b-b20 {
+  border-bottom: solid;
+  border-bottom-width: 20px;
+}
+.b-l1 {
+  border-left: solid;
+  border-left-width: 1px;
+}
+.b-l2 {
+  border-left: solid;
+  border-left-width: 2px;
+}
+.b-l3 {
+  border-left: solid;
+  border-left-width: 3px;
+}
+.b-l4 {
+  border-left: solid;
+  border-left-width: 4px;
+}
+.b-l5 {
+  border-left: solid;
+  border-left-width: 5px;
+}
+.b-l6 {
+  border-left: solid;
+  border-left-width: 6px;
+}
+.b-l7 {
+  border-left: solid;
+  border-left-width: 7px;
+}
+.b-l8 {
+  border-left: solid;
+  border-left-width: 8px;
+}
+.b-l9 {
+  border-left: solid;
+  border-left-width: 9px;
+}
+.b-l10 {
+  border-left: solid;
+  border-left-width: 10px;
+}
+.b-l11 {
+  border-left: solid;
+  border-left-width: 11px;
+}
+.b-l12 {
+  border-left: solid;
+  border-left-width: 12px;
+}
+.b-l13 {
+  border-left: solid;
+  border-left-width: 13px;
+}
+.b-l14 {
+  border-left: solid;
+  border-left-width: 14px;
+}
+.b-l15 {
+  border-left: solid;
+  border-left-width: 15px;
+}
+.b-l16 {
+  border-left: solid;
+  border-left-width: 16px;
+}
+.b-l17 {
+  border-left: solid;
+  border-left-width: 17px;
+}
+.b-l18 {
+  border-left: solid;
+  border-left-width: 18px;
+}
+.b-l19 {
+  border-left: solid;
+  border-left-width: 19px;
+}
+.b-l20 {
+  border-left: solid;
+  border-left-width: 20px;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+}
+.dropdown-content a {
+  text-decoration: none;
+  display: block;
+  color: black;
+  padding: 5px;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.btn {
+  text-align: center;
+  display: inline-block;
+}
+.img-bordered {
+  border: 1px solid #c0c0c0;
+  padding: 3px;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  display: table;
+}
+table,
+th,
+td {
+  border: none;
+}
+.table-all {
+  border: 1px solid #d3d3d3;
+}
+.bordered tr,
+.table-all tr {
+  border-bottom: 1px solid #d3d3d3;
+}
+.striped tbody tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+.table-all tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+.table-all tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+.hoverable tbody tr:hover {
+  background-color: #d3d3d3;
+}
+.t-center tr th,
+.t-center tr td {
+  text-align: center;
+}
+.hoverable tbody tr {
+  transition: background-color 0.3s;
+}
+.table td,
+.table th,
+.table-all td,
+.table-all th {
+  padding: 6px 8px;
+  display: table-cell;
+  text-align: left;
+  vertical-align: top;
+}
+.table th:first-child,
+.table td:first-child,
+.table-all th:first-child,
+.table-all td:first-child {
+  padding-left: 16px;
+}
